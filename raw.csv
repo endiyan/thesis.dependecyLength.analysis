@@ -1,0 +1,735 @@
+"","doc_id","paragraph_id","sentence_id","sentence","token_id","token","lemma","upos","xpos","feats","head_token_id","dep_rel","deps","misc"
+"1","doc1",1,1,"Pak, mengganggu sedikit.","1","Pak",NA,"PROPN",NA,NA,"3","nsubj",NA,"SpaceAfter=No"
+"2","doc1",1,1,"Pak, mengganggu sedikit.","2",",",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"3","doc1",1,1,"Pak, mengganggu sedikit.","3","mengganggu",NA,"VERB",NA,NA,"0","root",NA,NA
+"4","doc1",1,1,"Pak, mengganggu sedikit.","4","sedikit",NA,"ADV",NA,NA,"3","advmod",NA,"SpaceAfter=No"
+"5","doc1",1,1,"Pak, mengganggu sedikit.","5",".",NA,"PUNCT",NA,NA,"3","punct",NA,NA
+"6","doc1",1,2,"Kami dari RRI. Sudah lama Bapak muncul di sini?","1","Kami",NA,"PROPN",NA,NA,"8","nsubj",NA,NA
+"7","doc1",1,2,"Kami dari RRI. Sudah lama Bapak muncul di sini?","2","dari",NA,"ADP",NA,NA,"3","case",NA,NA
+"8","doc1",1,2,"Kami dari RRI. Sudah lama Bapak muncul di sini?","3","RRI",NA,"PROPN",NA,NA,"1","nmod",NA,"SpaceAfter=No"
+"9","doc1",1,2,"Kami dari RRI. Sudah lama Bapak muncul di sini?","4",".",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"10","doc1",1,2,"Kami dari RRI. Sudah lama Bapak muncul di sini?","5","Sudah",NA,"PROPN",NA,NA,"1","flat",NA,NA
+"11","doc1",1,2,"Kami dari RRI. Sudah lama Bapak muncul di sini?","6","lama",NA,"ADJ",NA,NA,"1","amod",NA,NA
+"12","doc1",1,2,"Kami dari RRI. Sudah lama Bapak muncul di sini?","7","Bapak",NA,"PROPN",NA,NA,"1","flat",NA,NA
+"13","doc1",1,2,"Kami dari RRI. Sudah lama Bapak muncul di sini?","8","muncul",NA,"VERB",NA,NA,"0","root",NA,NA
+"14","doc1",1,2,"Kami dari RRI. Sudah lama Bapak muncul di sini?","9","di",NA,"ADP",NA,NA,"10","case",NA,NA
+"15","doc1",1,2,"Kami dari RRI. Sudah lama Bapak muncul di sini?","10","sini",NA,"NOUN",NA,NA,"8","obl",NA,"SpaceAfter=No"
+"16","doc1",1,2,"Kami dari RRI. Sudah lama Bapak muncul di sini?","11","?",NA,"PUNCT",NA,NA,"8","punct",NA,"SpacesAfter=\n"
+"17","doc2",1,1,"Sudah lama juga, karena saya sudah di sini sejak ini diresmikan.","1","Sudah",NA,"ADV",NA,NA,"2","advmod",NA,NA
+"18","doc2",1,1,"Sudah lama juga, karena saya sudah di sini sejak ini diresmikan.","2","lama",NA,"ADJ",NA,NA,"0","root",NA,NA
+"19","doc2",1,1,"Sudah lama juga, karena saya sudah di sini sejak ini diresmikan.","3","juga",NA,"ADV",NA,NA,"2","advmod",NA,"SpaceAfter=No"
+"20","doc2",1,1,"Sudah lama juga, karena saya sudah di sini sejak ini diresmikan.","4",",",NA,"PUNCT",NA,NA,"12","punct",NA,NA
+"21","doc2",1,1,"Sudah lama juga, karena saya sudah di sini sejak ini diresmikan.","5","karena",NA,"SCONJ",NA,NA,"12","mark",NA,NA
+"22","doc2",1,1,"Sudah lama juga, karena saya sudah di sini sejak ini diresmikan.","6","saya",NA,"PRON",NA,NA,"12","nsubj:pass",NA,NA
+"23","doc2",1,1,"Sudah lama juga, karena saya sudah di sini sejak ini diresmikan.","7","sudah",NA,"ADV",NA,NA,"9","advmod",NA,NA
+"24","doc2",1,1,"Sudah lama juga, karena saya sudah di sini sejak ini diresmikan.","8","di",NA,"ADP",NA,NA,"9","case",NA,NA
+"25","doc2",1,1,"Sudah lama juga, karena saya sudah di sini sejak ini diresmikan.","9","sini",NA,"NOUN",NA,NA,"12","obl",NA,NA
+"26","doc2",1,1,"Sudah lama juga, karena saya sudah di sini sejak ini diresmikan.","10","sejak",NA,"ADP",NA,NA,"9","case",NA,NA
+"27","doc2",1,1,"Sudah lama juga, karena saya sudah di sini sejak ini diresmikan.","11","ini",NA,"DET",NA,NA,"9","det",NA,NA
+"28","doc2",1,1,"Sudah lama juga, karena saya sudah di sini sejak ini diresmikan.","12","diresmikan",NA,"VERB",NA,NA,"2","conj",NA,"SpaceAfter=No"
+"29","doc2",1,1,"Sudah lama juga, karena saya sudah di sini sejak ini diresmikan.","13",".",NA,"PUNCT",NA,NA,"12","punct",NA,NA
+"30","doc2",1,2,"Jadi, cukup lama juga.","1","Jadi",NA,"ADV",NA,NA,"4","advmod",NA,"SpaceAfter=No"
+"31","doc2",1,2,"Jadi, cukup lama juga.","2",",",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"32","doc2",1,2,"Jadi, cukup lama juga.","3","cukup",NA,"ADV",NA,NA,"4","advmod",NA,NA
+"33","doc2",1,2,"Jadi, cukup lama juga.","4","lama",NA,"ADJ",NA,NA,"0","root",NA,NA
+"34","doc2",1,2,"Jadi, cukup lama juga.","5","juga",NA,"ADV",NA,NA,"4","advmod",NA,"SpaceAfter=No"
+"35","doc2",1,2,"Jadi, cukup lama juga.","6",".",NA,"PUNCT",NA,NA,"4","punct",NA,"SpacesAfter=\n"
+"36","doc3",1,1,"Apa yang dijual di sini?","1","Apa",NA,"NOUN",NA,NA,"0","root",NA,NA
+"37","doc3",1,1,"Apa yang dijual di sini?","2","yang",NA,"PRON",NA,NA,"3","nsubj:pass",NA,NA
+"38","doc3",1,1,"Apa yang dijual di sini?","3","dijual",NA,"VERB",NA,NA,"1","acl",NA,NA
+"39","doc3",1,1,"Apa yang dijual di sini?","4","di",NA,"ADP",NA,NA,"5","case",NA,NA
+"40","doc3",1,1,"Apa yang dijual di sini?","5","sini",NA,"NOUN",NA,NA,"3","obl",NA,"SpaceAfter=No"
+"41","doc3",1,1,"Apa yang dijual di sini?","6","?",NA,"PUNCT",NA,NA,"1","punct",NA,"SpacesAfter=\n"
+"42","doc4",1,1,"Kita lihat ini di depan ada minuman Coca-Cola, Aqua, Mizone, Teh Kotak, dan rokok.","1","Kita",NA,"PROPN",NA,NA,"2","nsubj",NA,NA
+"43","doc4",1,1,"Kita lihat ini di depan ada minuman Coca-Cola, Aqua, Mizone, Teh Kotak, dan rokok.","2","lihat",NA,"VERB",NA,NA,"0","root",NA,NA
+"44","doc4",1,1,"Kita lihat ini di depan ada minuman Coca-Cola, Aqua, Mizone, Teh Kotak, dan rokok.","3","ini",NA,"DET",NA,NA,"2","det",NA,NA
+"45","doc4",1,1,"Kita lihat ini di depan ada minuman Coca-Cola, Aqua, Mizone, Teh Kotak, dan rokok.","4","di",NA,"ADP",NA,NA,"2","case",NA,NA
+"46","doc4",1,1,"Kita lihat ini di depan ada minuman Coca-Cola, Aqua, Mizone, Teh Kotak, dan rokok.","5","depan",NA,"ADJ",NA,NA,"2","amod",NA,NA
+"47","doc4",1,1,"Kita lihat ini di depan ada minuman Coca-Cola, Aqua, Mizone, Teh Kotak, dan rokok.","6","ada",NA,"VERB",NA,NA,"2","acl",NA,NA
+"48","doc4",1,1,"Kita lihat ini di depan ada minuman Coca-Cola, Aqua, Mizone, Teh Kotak, dan rokok.","7","minuman",NA,"NOUN",NA,NA,"6","obj",NA,NA
+"49","doc4",1,1,"Kita lihat ini di depan ada minuman Coca-Cola, Aqua, Mizone, Teh Kotak, dan rokok.","8","Coca-Cola",NA,"PROPN",NA,NA,"7","flat",NA,"SpaceAfter=No"
+"50","doc4",1,1,"Kita lihat ini di depan ada minuman Coca-Cola, Aqua, Mizone, Teh Kotak, dan rokok.","9",",",NA,"PUNCT",NA,NA,"2","punct",NA,NA
+"51","doc4",1,1,"Kita lihat ini di depan ada minuman Coca-Cola, Aqua, Mizone, Teh Kotak, dan rokok.","10","Aqua",NA,"PROPN",NA,NA,"2","obj",NA,"SpaceAfter=No"
+"52","doc4",1,1,"Kita lihat ini di depan ada minuman Coca-Cola, Aqua, Mizone, Teh Kotak, dan rokok.","11",",",NA,"PUNCT",NA,NA,"12","punct",NA,NA
+"53","doc4",1,1,"Kita lihat ini di depan ada minuman Coca-Cola, Aqua, Mizone, Teh Kotak, dan rokok.","12","Mizone",NA,"PROPN",NA,NA,"10","conj",NA,"SpaceAfter=No"
+"54","doc4",1,1,"Kita lihat ini di depan ada minuman Coca-Cola, Aqua, Mizone, Teh Kotak, dan rokok.","13",",",NA,"PUNCT",NA,NA,"14","punct",NA,NA
+"55","doc4",1,1,"Kita lihat ini di depan ada minuman Coca-Cola, Aqua, Mizone, Teh Kotak, dan rokok.","14","Teh",NA,"PROPN",NA,NA,"10","conj",NA,NA
+"56","doc4",1,1,"Kita lihat ini di depan ada minuman Coca-Cola, Aqua, Mizone, Teh Kotak, dan rokok.","15","Kotak",NA,"PROPN",NA,NA,"14","flat",NA,"SpaceAfter=No"
+"57","doc4",1,1,"Kita lihat ini di depan ada minuman Coca-Cola, Aqua, Mizone, Teh Kotak, dan rokok.","16",",",NA,"PUNCT",NA,NA,"18","punct",NA,NA
+"58","doc4",1,1,"Kita lihat ini di depan ada minuman Coca-Cola, Aqua, Mizone, Teh Kotak, dan rokok.","17","dan",NA,"CCONJ",NA,NA,"18","cc",NA,NA
+"59","doc4",1,1,"Kita lihat ini di depan ada minuman Coca-Cola, Aqua, Mizone, Teh Kotak, dan rokok.","18","rokok",NA,"NOUN",NA,NA,"10","conj",NA,"SpaceAfter=No"
+"60","doc4",1,1,"Kita lihat ini di depan ada minuman Coca-Cola, Aqua, Mizone, Teh Kotak, dan rokok.","19",".",NA,"PUNCT",NA,NA,"2","punct",NA,"SpacesAfter=\n"
+"61","doc5",1,1,"Penghasilan setiap hari berapa biasanya, Pak?","1","Penghasilan",NA,"NOUN",NA,NA,"0","root",NA,NA
+"62","doc5",1,1,"Penghasilan setiap hari berapa biasanya, Pak?","2","setiap",NA,"DET",NA,NA,"3","det",NA,NA
+"63","doc5",1,1,"Penghasilan setiap hari berapa biasanya, Pak?","3","hari",NA,"NOUN",NA,NA,"1","compound",NA,NA
+"64","doc5",1,1,"Penghasilan setiap hari berapa biasanya, Pak?","4","berapa",NA,"DET",NA,NA,"3","det",NA,NA
+"65","doc5",1,1,"Penghasilan setiap hari berapa biasanya, Pak?","5","biasanya",NA,"ADV",NA,NA,"3","advmod",NA,"SpaceAfter=No"
+"66","doc5",1,1,"Penghasilan setiap hari berapa biasanya, Pak?","6",",",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"67","doc5",1,1,"Penghasilan setiap hari berapa biasanya, Pak?","7","Pak",NA,"PROPN",NA,NA,"1","appos",NA,"SpaceAfter=No"
+"68","doc5",1,1,"Penghasilan setiap hari berapa biasanya, Pak?","8","?",NA,"PUNCT",NA,NA,"1","punct",NA,"SpacesAfter=\n"
+"69","doc6",1,1,"Penghasilannya tidak tentu.","1","Penghasilannya",NA,"NOUN",NA,NA,"3","nsubj:pass",NA,NA
+"70","doc6",1,1,"Penghasilannya tidak tentu.","2","tidak",NA,"PART",NA,"Polarity=Neg","3","advmod",NA,NA
+"71","doc6",1,1,"Penghasilannya tidak tentu.","3","tentu",NA,"VERB",NA,NA,"0","root",NA,"SpaceAfter=No"
+"72","doc6",1,1,"Penghasilannya tidak tentu.","4",".",NA,"PUNCT",NA,NA,"3","punct",NA,NA
+"73","doc6",1,2,"Kalau lagi ada keramaian, mungkin kita bisa dapat sekitar 300-500.","1","Kalau",NA,"SCONJ",NA,NA,"3","mark",NA,NA
+"74","doc6",1,2,"Kalau lagi ada keramaian, mungkin kita bisa dapat sekitar 300-500.","2","lagi",NA,"ADV",NA,NA,"3","advmod",NA,NA
+"75","doc6",1,2,"Kalau lagi ada keramaian, mungkin kita bisa dapat sekitar 300-500.","3","ada",NA,"VERB",NA,NA,"9","advcl",NA,NA
+"76","doc6",1,2,"Kalau lagi ada keramaian, mungkin kita bisa dapat sekitar 300-500.","4","keramaian",NA,"NOUN",NA,NA,"3","obj",NA,"SpaceAfter=No"
+"77","doc6",1,2,"Kalau lagi ada keramaian, mungkin kita bisa dapat sekitar 300-500.","5",",",NA,"PUNCT",NA,NA,"3","punct",NA,NA
+"78","doc6",1,2,"Kalau lagi ada keramaian, mungkin kita bisa dapat sekitar 300-500.","6","mungkin",NA,"ADV",NA,NA,"9","advmod",NA,NA
+"79","doc6",1,2,"Kalau lagi ada keramaian, mungkin kita bisa dapat sekitar 300-500.","7","kita",NA,"PRON",NA,NA,"9","nsubj",NA,NA
+"80","doc6",1,2,"Kalau lagi ada keramaian, mungkin kita bisa dapat sekitar 300-500.","8","bisa",NA,"ADV",NA,NA,"9","advmod",NA,NA
+"81","doc6",1,2,"Kalau lagi ada keramaian, mungkin kita bisa dapat sekitar 300-500.","9","dapat",NA,"VERB",NA,NA,"0","root",NA,NA
+"82","doc6",1,2,"Kalau lagi ada keramaian, mungkin kita bisa dapat sekitar 300-500.","10","sekitar",NA,"ADP",NA,NA,"9","case",NA,NA
+"83","doc6",1,2,"Kalau lagi ada keramaian, mungkin kita bisa dapat sekitar 300-500.","11","300-500",NA,"NUM",NA,"NumType=Card","9","nummod",NA,"SpaceAfter=No"
+"84","doc6",1,2,"Kalau lagi ada keramaian, mungkin kita bisa dapat sekitar 300-500.","12",".",NA,"PUNCT",NA,NA,"9","punct",NA,NA
+"85","doc6",1,3,"Kalau hari-hari biasa begini, kadang 200 atau 150, tergantung pengunjungnya.","1","Kalau",NA,"SCONJ",NA,NA,"2","mark",NA,NA
+"86","doc6",1,3,"Kalau hari-hari biasa begini, kadang 200 atau 150, tergantung pengunjungnya.","2","hari-hari",NA,"NOUN",NA,NA,"11","nsubj",NA,NA
+"87","doc6",1,3,"Kalau hari-hari biasa begini, kadang 200 atau 150, tergantung pengunjungnya.","3","biasa",NA,"ADJ",NA,NA,"2","amod",NA,NA
+"88","doc6",1,3,"Kalau hari-hari biasa begini, kadang 200 atau 150, tergantung pengunjungnya.","4","begini",NA,"NOUN",NA,NA,"2","compound",NA,"SpaceAfter=No"
+"89","doc6",1,3,"Kalau hari-hari biasa begini, kadang 200 atau 150, tergantung pengunjungnya.","5",",",NA,"PUNCT",NA,NA,"6","punct",NA,NA
+"90","doc6",1,3,"Kalau hari-hari biasa begini, kadang 200 atau 150, tergantung pengunjungnya.","6","kadang",NA,"NOUN",NA,NA,"2","conj",NA,NA
+"91","doc6",1,3,"Kalau hari-hari biasa begini, kadang 200 atau 150, tergantung pengunjungnya.","7","200",NA,"NUM",NA,"NumType=Card","6","nummod",NA,NA
+"92","doc6",1,3,"Kalau hari-hari biasa begini, kadang 200 atau 150, tergantung pengunjungnya.","8","atau",NA,"CCONJ",NA,NA,"9","cc",NA,NA
+"93","doc6",1,3,"Kalau hari-hari biasa begini, kadang 200 atau 150, tergantung pengunjungnya.","9","150",NA,"NUM",NA,"NumType=Card","7","conj",NA,"SpaceAfter=No"
+"94","doc6",1,3,"Kalau hari-hari biasa begini, kadang 200 atau 150, tergantung pengunjungnya.","10",",",NA,"PUNCT",NA,NA,"11","punct",NA,NA
+"95","doc6",1,3,"Kalau hari-hari biasa begini, kadang 200 atau 150, tergantung pengunjungnya.","11","tergantung",NA,"VERB",NA,NA,"0","root",NA,NA
+"96","doc6",1,3,"Kalau hari-hari biasa begini, kadang 200 atau 150, tergantung pengunjungnya.","12","pengunjungnya",NA,"NOUN",NA,NA,"11","obj",NA,"SpaceAfter=No"
+"97","doc6",1,3,"Kalau hari-hari biasa begini, kadang 200 atau 150, tergantung pengunjungnya.","13",".",NA,"PUNCT",NA,NA,"11","punct",NA,"SpacesAfter=\n"
+"98","doc7",1,1,"Biasa yang ramai hari apa?","1","Biasa",NA,"PROPN",NA,NA,"0","root",NA,NA
+"99","doc7",1,1,"Biasa yang ramai hari apa?","2","yang",NA,"PRON",NA,NA,"3","nsubj",NA,NA
+"100","doc7",1,1,"Biasa yang ramai hari apa?","3","ramai",NA,"VERB",NA,NA,"1","acl",NA,NA
+"101","doc7",1,1,"Biasa yang ramai hari apa?","4","hari",NA,"NOUN",NA,NA,"3","obj",NA,NA
+"102","doc7",1,1,"Biasa yang ramai hari apa?","5","apa",NA,"NOUN",NA,NA,"4","compound",NA,"SpaceAfter=No"
+"103","doc7",1,1,"Biasa yang ramai hari apa?","6","?",NA,"PUNCT",NA,NA,"1","punct",NA,"SpacesAfter=\n"
+"104","doc8",1,1,"Kalau pas lagi ada acara di anjungan ini, ada event-event, itu pasti pengunjung banyak datang.","1","Kalau",NA,"SCONJ",NA,NA,"4","mark",NA,NA
+"105","doc8",1,1,"Kalau pas lagi ada acara di anjungan ini, ada event-event, itu pasti pengunjung banyak datang.","2","pas",NA,"NOUN",NA,NA,"4","nsubj",NA,NA
+"106","doc8",1,1,"Kalau pas lagi ada acara di anjungan ini, ada event-event, itu pasti pengunjung banyak datang.","3","lagi",NA,"ADV",NA,NA,"4","advmod",NA,NA
+"107","doc8",1,1,"Kalau pas lagi ada acara di anjungan ini, ada event-event, itu pasti pengunjung banyak datang.","4","ada",NA,"VERB",NA,NA,"10","advcl",NA,NA
+"108","doc8",1,1,"Kalau pas lagi ada acara di anjungan ini, ada event-event, itu pasti pengunjung banyak datang.","5","acara",NA,"NOUN",NA,NA,"4","obj",NA,NA
+"109","doc8",1,1,"Kalau pas lagi ada acara di anjungan ini, ada event-event, itu pasti pengunjung banyak datang.","6","di",NA,"ADP",NA,NA,"7","case",NA,NA
+"110","doc8",1,1,"Kalau pas lagi ada acara di anjungan ini, ada event-event, itu pasti pengunjung banyak datang.","7","anjungan",NA,"NOUN",NA,NA,"5","nmod",NA,NA
+"111","doc8",1,1,"Kalau pas lagi ada acara di anjungan ini, ada event-event, itu pasti pengunjung banyak datang.","8","ini",NA,"DET",NA,NA,"7","det",NA,"SpaceAfter=No"
+"112","doc8",1,1,"Kalau pas lagi ada acara di anjungan ini, ada event-event, itu pasti pengunjung banyak datang.","9",",",NA,"PUNCT",NA,NA,"4","punct",NA,NA
+"113","doc8",1,1,"Kalau pas lagi ada acara di anjungan ini, ada event-event, itu pasti pengunjung banyak datang.","10","ada",NA,"VERB",NA,NA,"0","root",NA,NA
+"114","doc8",1,1,"Kalau pas lagi ada acara di anjungan ini, ada event-event, itu pasti pengunjung banyak datang.","11","event-event",NA,"NOUN",NA,NA,"10","obj",NA,"SpaceAfter=No"
+"115","doc8",1,1,"Kalau pas lagi ada acara di anjungan ini, ada event-event, itu pasti pengunjung banyak datang.","12",",",NA,"PUNCT",NA,NA,"10","punct",NA,NA
+"116","doc8",1,1,"Kalau pas lagi ada acara di anjungan ini, ada event-event, itu pasti pengunjung banyak datang.","13","itu",NA,"DET",NA,NA,"17","det",NA,NA
+"117","doc8",1,1,"Kalau pas lagi ada acara di anjungan ini, ada event-event, itu pasti pengunjung banyak datang.","14","pasti",NA,"ADV",NA,NA,"17","advmod",NA,NA
+"118","doc8",1,1,"Kalau pas lagi ada acara di anjungan ini, ada event-event, itu pasti pengunjung banyak datang.","15","pengunjung",NA,"NOUN",NA,NA,"17","nsubj",NA,NA
+"119","doc8",1,1,"Kalau pas lagi ada acara di anjungan ini, ada event-event, itu pasti pengunjung banyak datang.","16","banyak",NA,"ADV",NA,NA,"17","advmod",NA,NA
+"120","doc8",1,1,"Kalau pas lagi ada acara di anjungan ini, ada event-event, itu pasti pengunjung banyak datang.","17","datang",NA,"VERB",NA,NA,"10","parataxis",NA,"SpaceAfter=No"
+"121","doc8",1,1,"Kalau pas lagi ada acara di anjungan ini, ada event-event, itu pasti pengunjung banyak datang.","18",".",NA,"PUNCT",NA,NA,"10","punct",NA,NA
+"122","doc8",1,2,"Seperti ketika ada artis.","1","Seperti",NA,"ADP",NA,NA,"3","case",NA,NA
+"123","doc8",1,2,"Seperti ketika ada artis.","2","ketika",NA,"SCONJ",NA,NA,"3","mark",NA,NA
+"124","doc8",1,2,"Seperti ketika ada artis.","3","ada",NA,"VERB",NA,NA,"0","root",NA,NA
+"125","doc8",1,2,"Seperti ketika ada artis.","4","artis",NA,"NOUN",NA,NA,"3","obj",NA,"SpaceAfter=No"
+"126","doc8",1,2,"Seperti ketika ada artis.","5",".",NA,"PUNCT",NA,NA,"3","punct",NA,"SpacesAfter=\s\n"
+"127","doc9",1,1,"Dari jam berapa sampai jam berapa berjualan di sini?","1","Dari",NA,"ADP",NA,NA,"2","case",NA,NA
+"128","doc9",1,1,"Dari jam berapa sampai jam berapa berjualan di sini?","2","jam",NA,"NOUN",NA,NA,"7","obl",NA,NA
+"129","doc9",1,1,"Dari jam berapa sampai jam berapa berjualan di sini?","3","berapa",NA,"NUM",NA,"NumType=Card","2","nummod",NA,NA
+"130","doc9",1,1,"Dari jam berapa sampai jam berapa berjualan di sini?","4","sampai",NA,"ADP",NA,NA,"5","case",NA,NA
+"131","doc9",1,1,"Dari jam berapa sampai jam berapa berjualan di sini?","5","jam",NA,"NOUN",NA,NA,"2","nmod",NA,NA
+"132","doc9",1,1,"Dari jam berapa sampai jam berapa berjualan di sini?","6","berapa",NA,"DET",NA,NA,"5","det",NA,NA
+"133","doc9",1,1,"Dari jam berapa sampai jam berapa berjualan di sini?","7","berjualan",NA,"VERB",NA,NA,"0","root",NA,NA
+"134","doc9",1,1,"Dari jam berapa sampai jam berapa berjualan di sini?","8","di",NA,"ADP",NA,NA,"9","case",NA,NA
+"135","doc9",1,1,"Dari jam berapa sampai jam berapa berjualan di sini?","9","sini",NA,"NOUN",NA,NA,"7","obl",NA,"SpaceAfter=No"
+"136","doc9",1,1,"Dari jam berapa sampai jam berapa berjualan di sini?","10","?",NA,"PUNCT",NA,NA,"7","punct",NA,"SpacesAfter=\n"
+"137","doc10",1,1,"Kalau hari biasa, kita berjualan sore.","1","Kalau",NA,"SCONJ",NA,NA,"2","case",NA,NA
+"138","doc10",1,1,"Kalau hari biasa, kita berjualan sore.","2","hari",NA,"NOUN",NA,NA,"6","obl",NA,NA
+"139","doc10",1,1,"Kalau hari biasa, kita berjualan sore.","3","biasa",NA,"ADJ",NA,NA,"2","amod",NA,"SpaceAfter=No"
+"140","doc10",1,1,"Kalau hari biasa, kita berjualan sore.","4",",",NA,"PUNCT",NA,NA,"6","punct",NA,NA
+"141","doc10",1,1,"Kalau hari biasa, kita berjualan sore.","5","kita",NA,"PRON",NA,NA,"6","nsubj",NA,NA
+"142","doc10",1,1,"Kalau hari biasa, kita berjualan sore.","6","berjualan",NA,"VERB",NA,NA,"0","root",NA,NA
+"143","doc10",1,1,"Kalau hari biasa, kita berjualan sore.","7","sore",NA,"NOUN",NA,NA,"6","obj",NA,"SpaceAfter=No"
+"144","doc10",1,1,"Kalau hari biasa, kita berjualan sore.","8",".",NA,"PUNCT",NA,NA,"6","punct",NA,NA
+"145","doc10",1,2,"Kadang teman-teman datang jam tiga.","1","Kadang",NA,"NOUN",NA,NA,"3","nsubj",NA,NA
+"146","doc10",1,2,"Kadang teman-teman datang jam tiga.","2","teman-teman",NA,"NOUN",NA,NA,"1","compound",NA,NA
+"147","doc10",1,2,"Kadang teman-teman datang jam tiga.","3","datang",NA,"VERB",NA,NA,"0","root",NA,NA
+"148","doc10",1,2,"Kadang teman-teman datang jam tiga.","4","jam",NA,"NOUN",NA,NA,"3","obj",NA,NA
+"149","doc10",1,2,"Kadang teman-teman datang jam tiga.","5","tiga",NA,"NUM",NA,"NumType=Card","4","nummod",NA,"SpaceAfter=No"
+"150","doc10",1,2,"Kadang teman-teman datang jam tiga.","6",".",NA,"PUNCT",NA,NA,"3","punct",NA,NA
+"151","doc10",1,3,"Kalau hari Minggu, kadang dia bermalam di sini.","1","Kalau",NA,"SCONJ",NA,NA,"2","case",NA,NA
+"152","doc10",1,3,"Kalau hari Minggu, kadang dia bermalam di sini.","2","hari",NA,"NOUN",NA,NA,"7","obl",NA,NA
+"153","doc10",1,3,"Kalau hari Minggu, kadang dia bermalam di sini.","3","Minggu",NA,"PROPN",NA,NA,"2","flat",NA,"SpaceAfter=No"
+"154","doc10",1,3,"Kalau hari Minggu, kadang dia bermalam di sini.","4",",",NA,"PUNCT",NA,NA,"2","punct",NA,NA
+"155","doc10",1,3,"Kalau hari Minggu, kadang dia bermalam di sini.","5","kadang",NA,"ADV",NA,NA,"7","advmod",NA,NA
+"156","doc10",1,3,"Kalau hari Minggu, kadang dia bermalam di sini.","6","dia",NA,"PRON",NA,NA,"7","nsubj",NA,NA
+"157","doc10",1,3,"Kalau hari Minggu, kadang dia bermalam di sini.","7","bermalam",NA,"VERB",NA,NA,"0","root",NA,NA
+"158","doc10",1,3,"Kalau hari Minggu, kadang dia bermalam di sini.","8","di",NA,"ADP",NA,NA,"9","case",NA,NA
+"159","doc10",1,3,"Kalau hari Minggu, kadang dia bermalam di sini.","9","sini",NA,"PRON",NA,NA,"7","obl",NA,"SpaceAfter=No"
+"160","doc10",1,3,"Kalau hari Minggu, kadang dia bermalam di sini.","10",".",NA,"PUNCT",NA,NA,"7","punct",NA,"SpacesAfter=\s\n"
+"161","doc11",1,1,"Sampai jam berapa?","1","Sampai",NA,"ADP",NA,NA,"2","case",NA,NA
+"162","doc11",1,1,"Sampai jam berapa?","2","jam",NA,"NOUN",NA,NA,"0","root",NA,NA
+"163","doc11",1,1,"Sampai jam berapa?","3","berapa",NA,"NUM",NA,"NumType=Card","2","nummod",NA,"SpaceAfter=No"
+"164","doc11",1,1,"Sampai jam berapa?","4","?",NA,"PUNCT",NA,NA,"2","punct",NA,"SpacesAfter=\s\n"
+"165","doc12",1,1,"Sampai jam sepuluh pagi.","1","Sampai",NA,"ADP",NA,NA,"2","case",NA,NA
+"166","doc12",1,1,"Sampai jam sepuluh pagi.","2","jam",NA,"NOUN",NA,NA,"0","root",NA,NA
+"167","doc12",1,1,"Sampai jam sepuluh pagi.","3","sepuluh",NA,"NUM",NA,"NumType=Card","4","nummod",NA,NA
+"168","doc12",1,1,"Sampai jam sepuluh pagi.","4","pagi",NA,"NOUN",NA,NA,"2","compound",NA,"SpaceAfter=No"
+"169","doc12",1,1,"Sampai jam sepuluh pagi.","5",".",NA,"PUNCT",NA,NA,"2","punct",NA,NA
+"170","doc12",1,2,"Itu sudah bubar.","1","Itu",NA,"PROPN",NA,NA,"3","nsubj:pass",NA,NA
+"171","doc12",1,2,"Itu sudah bubar.","2","sudah",NA,"ADV",NA,NA,"3","advmod",NA,NA
+"172","doc12",1,2,"Itu sudah bubar.","3","bubar",NA,"VERB",NA,NA,"0","root",NA,"SpaceAfter=No"
+"173","doc12",1,2,"Itu sudah bubar.","4",".",NA,"PUNCT",NA,NA,"3","punct",NA,NA
+"174","doc12",1,3,"Tapi kalau ada acara atau event, buka di lapangan bisa sampai satu minggu.","1","Tapi",NA,"SCONJ",NA,NA,"3","mark",NA,NA
+"175","doc12",1,3,"Tapi kalau ada acara atau event, buka di lapangan bisa sampai satu minggu.","2","kalau",NA,"SCONJ",NA,NA,"3","mark",NA,NA
+"176","doc12",1,3,"Tapi kalau ada acara atau event, buka di lapangan bisa sampai satu minggu.","3","ada",NA,"VERB",NA,NA,"0","root",NA,NA
+"177","doc12",1,3,"Tapi kalau ada acara atau event, buka di lapangan bisa sampai satu minggu.","4","acara",NA,"NOUN",NA,NA,"3","obj",NA,NA
+"178","doc12",1,3,"Tapi kalau ada acara atau event, buka di lapangan bisa sampai satu minggu.","5","atau",NA,"CCONJ",NA,NA,"6","cc",NA,NA
+"179","doc12",1,3,"Tapi kalau ada acara atau event, buka di lapangan bisa sampai satu minggu.","6","event",NA,"NOUN",NA,NA,"4","conj",NA,"SpaceAfter=No"
+"180","doc12",1,3,"Tapi kalau ada acara atau event, buka di lapangan bisa sampai satu minggu.","7",",",NA,"PUNCT",NA,NA,"4","punct",NA,NA
+"181","doc12",1,3,"Tapi kalau ada acara atau event, buka di lapangan bisa sampai satu minggu.","8","buka",NA,"NOUN",NA,NA,"4","compound",NA,NA
+"182","doc12",1,3,"Tapi kalau ada acara atau event, buka di lapangan bisa sampai satu minggu.","9","di",NA,"ADP",NA,NA,"10","case",NA,NA
+"183","doc12",1,3,"Tapi kalau ada acara atau event, buka di lapangan bisa sampai satu minggu.","10","lapangan",NA,"NOUN",NA,NA,"8","nmod",NA,NA
+"184","doc12",1,3,"Tapi kalau ada acara atau event, buka di lapangan bisa sampai satu minggu.","11","bisa",NA,"ADV",NA,NA,"14","advmod",NA,NA
+"185","doc12",1,3,"Tapi kalau ada acara atau event, buka di lapangan bisa sampai satu minggu.","12","sampai",NA,"ADP",NA,NA,"14","case",NA,NA
+"186","doc12",1,3,"Tapi kalau ada acara atau event, buka di lapangan bisa sampai satu minggu.","13","satu",NA,"NUM",NA,"NumType=Card","14","nummod",NA,NA
+"187","doc12",1,3,"Tapi kalau ada acara atau event, buka di lapangan bisa sampai satu minggu.","14","minggu",NA,"NOUN",NA,NA,"3","obl",NA,"SpaceAfter=No"
+"188","doc12",1,3,"Tapi kalau ada acara atau event, buka di lapangan bisa sampai satu minggu.","15",".",NA,"PUNCT",NA,NA,"3","punct",NA,NA
+"189","doc12",1,4,"Kadang ada juga yang menetap di sini sambil menunggu pengunjung-pengunjung yang keluar-masuk.","1","Kadang",NA,"PROPN",NA,NA,"2","nsubj",NA,NA
+"190","doc12",1,4,"Kadang ada juga yang menetap di sini sambil menunggu pengunjung-pengunjung yang keluar-masuk.","2","ada",NA,"VERB",NA,NA,"0","root",NA,NA
+"191","doc12",1,4,"Kadang ada juga yang menetap di sini sambil menunggu pengunjung-pengunjung yang keluar-masuk.","3","juga",NA,"ADV",NA,NA,"2","advmod",NA,NA
+"192","doc12",1,4,"Kadang ada juga yang menetap di sini sambil menunggu pengunjung-pengunjung yang keluar-masuk.","4","yang",NA,"PRON",NA,NA,"5","nsubj",NA,NA
+"193","doc12",1,4,"Kadang ada juga yang menetap di sini sambil menunggu pengunjung-pengunjung yang keluar-masuk.","5","menetap",NA,"VERB",NA,NA,"2","acl",NA,NA
+"194","doc12",1,4,"Kadang ada juga yang menetap di sini sambil menunggu pengunjung-pengunjung yang keluar-masuk.","6","di",NA,"ADP",NA,NA,"7","case",NA,NA
+"195","doc12",1,4,"Kadang ada juga yang menetap di sini sambil menunggu pengunjung-pengunjung yang keluar-masuk.","7","sini",NA,"PRON",NA,NA,"5","obl",NA,NA
+"196","doc12",1,4,"Kadang ada juga yang menetap di sini sambil menunggu pengunjung-pengunjung yang keluar-masuk.","8","sambil",NA,"CCONJ",NA,NA,"9","cc",NA,NA
+"197","doc12",1,4,"Kadang ada juga yang menetap di sini sambil menunggu pengunjung-pengunjung yang keluar-masuk.","9","menunggu",NA,"VERB",NA,NA,"2","conj",NA,NA
+"198","doc12",1,4,"Kadang ada juga yang menetap di sini sambil menunggu pengunjung-pengunjung yang keluar-masuk.","10","pengunjung-pengunjung",NA,"NOUN",NA,NA,"9","obj",NA,NA
+"199","doc12",1,4,"Kadang ada juga yang menetap di sini sambil menunggu pengunjung-pengunjung yang keluar-masuk.","11","yang",NA,"PRON",NA,NA,"12","nsubj",NA,NA
+"200","doc12",1,4,"Kadang ada juga yang menetap di sini sambil menunggu pengunjung-pengunjung yang keluar-masuk.","12","keluar-masuk",NA,"ADJ",NA,NA,"10","amod",NA,"SpaceAfter=No"
+"201","doc12",1,4,"Kadang ada juga yang menetap di sini sambil menunggu pengunjung-pengunjung yang keluar-masuk.","13",".",NA,"PUNCT",NA,NA,"2","punct",NA,"SpacesAfter=\s\n"
+"202","doc13",1,1,"Mengenai kebersihannya bagaimana?","1","Mengenai",NA,"ADP",NA,NA,"2","case",NA,NA
+"203","doc13",1,1,"Mengenai kebersihannya bagaimana?","2","kebersihannya",NA,"NOUN",NA,NA,"0","root",NA,NA
+"204","doc13",1,1,"Mengenai kebersihannya bagaimana?","3","bagaimana",NA,"ADJ",NA,NA,"2","amod",NA,"SpaceAfter=No"
+"205","doc13",1,1,"Mengenai kebersihannya bagaimana?","4","?",NA,"PUNCT",NA,NA,"2","punct",NA,"SpacesAfter=\n"
+"206","doc14",1,1,"Mengenai kebersihan, kita sudah pernah rapatkan dengan DPR.","1","Mengenai",NA,"ADP",NA,NA,"2","case",NA,NA
+"207","doc14",1,1,"Mengenai kebersihan, kita sudah pernah rapatkan dengan DPR.","2","kebersihan",NA,"NOUN",NA,NA,"7","obl",NA,"SpaceAfter=No"
+"208","doc14",1,1,"Mengenai kebersihan, kita sudah pernah rapatkan dengan DPR.","3",",",NA,"PUNCT",NA,NA,"7","punct",NA,NA
+"209","doc14",1,1,"Mengenai kebersihan, kita sudah pernah rapatkan dengan DPR.","4","kita",NA,"PRON",NA,NA,"7","nsubj",NA,NA
+"210","doc14",1,1,"Mengenai kebersihan, kita sudah pernah rapatkan dengan DPR.","5","sudah",NA,"ADV",NA,NA,"7","advmod",NA,NA
+"211","doc14",1,1,"Mengenai kebersihan, kita sudah pernah rapatkan dengan DPR.","6","pernah",NA,"ADV",NA,NA,"7","advmod",NA,NA
+"212","doc14",1,1,"Mengenai kebersihan, kita sudah pernah rapatkan dengan DPR.","7","rapatkan",NA,"VERB",NA,NA,"0","root",NA,NA
+"213","doc14",1,1,"Mengenai kebersihan, kita sudah pernah rapatkan dengan DPR.","8","dengan",NA,"ADP",NA,NA,"9","case",NA,NA
+"214","doc14",1,1,"Mengenai kebersihan, kita sudah pernah rapatkan dengan DPR.","9","DPR",NA,"PROPN",NA,NA,"7","obl",NA,"SpaceAfter=No"
+"215","doc14",1,1,"Mengenai kebersihan, kita sudah pernah rapatkan dengan DPR.","10",".",NA,"PUNCT",NA,NA,"7","punct",NA,"SpacesAfter=\s\n"
+"216","doc15",1,1,"Kita betul-betul menjaga betul kebersihan di sini.","1","Kita",NA,"NOUN",NA,NA,"3","nsubj",NA,NA
+"217","doc15",1,1,"Kita betul-betul menjaga betul kebersihan di sini.","2","betul-betul",NA,"ADJ",NA,NA,"1","amod",NA,NA
+"218","doc15",1,1,"Kita betul-betul menjaga betul kebersihan di sini.","3","menjaga",NA,"VERB",NA,NA,"0","root",NA,NA
+"219","doc15",1,1,"Kita betul-betul menjaga betul kebersihan di sini.","4","betul",NA,"ADJ",NA,NA,"5","amod",NA,NA
+"220","doc15",1,1,"Kita betul-betul menjaga betul kebersihan di sini.","5","kebersihan",NA,"NOUN",NA,NA,"3","obj",NA,NA
+"221","doc15",1,1,"Kita betul-betul menjaga betul kebersihan di sini.","6","di",NA,"ADP",NA,NA,"7","case",NA,NA
+"222","doc15",1,1,"Kita betul-betul menjaga betul kebersihan di sini.","7","sini",NA,"PRON",NA,NA,"5","nmod",NA,"SpaceAfter=No"
+"223","doc15",1,1,"Kita betul-betul menjaga betul kebersihan di sini.","8",".",NA,"PUNCT",NA,NA,"3","punct",NA,NA
+"224","doc15",1,2,"Itu tanpa terkecuali.","1","Itu",NA,"PROPN",NA,NA,"0","root",NA,NA
+"225","doc15",1,2,"Itu tanpa terkecuali.","2","tanpa",NA,"ADP",NA,NA,"3","case",NA,NA
+"226","doc15",1,2,"Itu tanpa terkecuali.","3","terkecuali",NA,"VERB",NA,NA,"1","acl",NA,"SpaceAfter=No"
+"227","doc15",1,2,"Itu tanpa terkecuali.","4",".",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"228","doc15",1,3,"Kita kerjasama dengan instansi seperti pamong praja dan Dinas Kebersihan.","1","Kita",NA,"PROPN",NA,NA,"2","nsubj",NA,NA
+"229","doc15",1,3,"Kita kerjasama dengan instansi seperti pamong praja dan Dinas Kebersihan.","2","kerjasama",NA,"VERB",NA,NA,"0","root",NA,NA
+"230","doc15",1,3,"Kita kerjasama dengan instansi seperti pamong praja dan Dinas Kebersihan.","3","dengan",NA,"ADP",NA,NA,"4","case",NA,NA
+"231","doc15",1,3,"Kita kerjasama dengan instansi seperti pamong praja dan Dinas Kebersihan.","4","instansi",NA,"NOUN",NA,NA,"2","obl",NA,NA
+"232","doc15",1,3,"Kita kerjasama dengan instansi seperti pamong praja dan Dinas Kebersihan.","5","seperti",NA,"ADP",NA,NA,"6","case",NA,NA
+"233","doc15",1,3,"Kita kerjasama dengan instansi seperti pamong praja dan Dinas Kebersihan.","6","pamong",NA,"NOUN",NA,NA,"4","nmod",NA,NA
+"234","doc15",1,3,"Kita kerjasama dengan instansi seperti pamong praja dan Dinas Kebersihan.","7","praja",NA,"NOUN",NA,NA,"6","compound",NA,NA
+"235","doc15",1,3,"Kita kerjasama dengan instansi seperti pamong praja dan Dinas Kebersihan.","8","dan",NA,"CCONJ",NA,NA,"9","cc",NA,NA
+"236","doc15",1,3,"Kita kerjasama dengan instansi seperti pamong praja dan Dinas Kebersihan.","9","Dinas",NA,"PROPN",NA,NA,"7","conj",NA,NA
+"237","doc15",1,3,"Kita kerjasama dengan instansi seperti pamong praja dan Dinas Kebersihan.","10","Kebersihan",NA,"PROPN",NA,NA,"9","flat",NA,"SpaceAfter=No"
+"238","doc15",1,3,"Kita kerjasama dengan instansi seperti pamong praja dan Dinas Kebersihan.","11",".",NA,"PUNCT",NA,NA,"2","punct",NA,NA
+"239","doc15",1,4,"Kalau mengenai kebersihan, kita betul betul-betul menjaga kebersihan di sini.","1","Kalau",NA,"SCONJ",NA,NA,"3","mark",NA,NA
+"240","doc15",1,4,"Kalau mengenai kebersihan, kita betul betul-betul menjaga kebersihan di sini.","2","mengenai",NA,"ADP",NA,NA,"3","case",NA,NA
+"241","doc15",1,4,"Kalau mengenai kebersihan, kita betul betul-betul menjaga kebersihan di sini.","3","kebersihan",NA,"NOUN",NA,NA,"8","advcl",NA,"SpaceAfter=No"
+"242","doc15",1,4,"Kalau mengenai kebersihan, kita betul betul-betul menjaga kebersihan di sini.","4",",",NA,"PUNCT",NA,NA,"3","punct",NA,NA
+"243","doc15",1,4,"Kalau mengenai kebersihan, kita betul betul-betul menjaga kebersihan di sini.","5","kita",NA,"PRON",NA,NA,"8","nsubj",NA,NA
+"244","doc15",1,4,"Kalau mengenai kebersihan, kita betul betul-betul menjaga kebersihan di sini.","6","betul",NA,"ADJ",NA,NA,"7","amod",NA,NA
+"245","doc15",1,4,"Kalau mengenai kebersihan, kita betul betul-betul menjaga kebersihan di sini.","7","betul-betul",NA,"ADJ",NA,NA,"5","amod",NA,NA
+"246","doc15",1,4,"Kalau mengenai kebersihan, kita betul betul-betul menjaga kebersihan di sini.","8","menjaga",NA,"VERB",NA,NA,"0","root",NA,NA
+"247","doc15",1,4,"Kalau mengenai kebersihan, kita betul betul-betul menjaga kebersihan di sini.","9","kebersihan",NA,"NOUN",NA,NA,"8","obj",NA,NA
+"248","doc15",1,4,"Kalau mengenai kebersihan, kita betul betul-betul menjaga kebersihan di sini.","10","di",NA,"ADP",NA,NA,"11","case",NA,NA
+"249","doc15",1,4,"Kalau mengenai kebersihan, kita betul betul-betul menjaga kebersihan di sini.","11","sini",NA,"PRON",NA,NA,"8","obl",NA,"SpaceAfter=No"
+"250","doc15",1,4,"Kalau mengenai kebersihan, kita betul betul-betul menjaga kebersihan di sini.","12",".",NA,"PUNCT",NA,NA,"8","punct",NA,"SpacesAfter=\n"
+"251","doc16",1,1,"Bagaimana cara menjaga kebersihan itu?","1","Bagaimana",NA,"ADJ",NA,NA,"2","amod",NA,NA
+"252","doc16",1,1,"Bagaimana cara menjaga kebersihan itu?","2","cara",NA,"NOUN",NA,NA,"3","nsubj",NA,NA
+"253","doc16",1,1,"Bagaimana cara menjaga kebersihan itu?","3","menjaga",NA,"VERB",NA,NA,"0","root",NA,NA
+"254","doc16",1,1,"Bagaimana cara menjaga kebersihan itu?","4","kebersihan",NA,"NOUN",NA,NA,"3","obj",NA,NA
+"255","doc16",1,1,"Bagaimana cara menjaga kebersihan itu?","5","itu",NA,"DET",NA,NA,"4","det",NA,"SpaceAfter=No"
+"256","doc16",1,1,"Bagaimana cara menjaga kebersihan itu?","6","?",NA,"PUNCT",NA,NA,"3","punct",NA,"SpacesAfter=\n"
+"257","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","1","Misalnya",NA,"ADV",NA,NA,"2","advmod",NA,NA
+"258","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","2","ada",NA,"VERB",NA,NA,"9","advcl",NA,NA
+"259","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","3","pengunjung",NA,"NOUN",NA,NA,"2","obj",NA,NA
+"260","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","4","buang",NA,"VERB",NA,NA,"3","acl",NA,NA
+"261","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","5","sampah",NA,"NOUN",NA,NA,"4","obj",NA,NA
+"262","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","6","sembarangan",NA,"NOUN",NA,NA,"5","compound",NA,"SpaceAfter=No"
+"263","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","7",",",NA,"PUNCT",NA,NA,"2","punct",NA,NA
+"264","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","8","kita",NA,"PRON",NA,NA,"9","nsubj",NA,NA
+"265","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","9","pungut",NA,"VERB",NA,NA,"25","advcl",NA,NA
+"266","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","10","sampah",NA,"NOUN",NA,NA,"9","obj",NA,NA
+"267","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","11","itu",NA,"DET",NA,NA,"10","det",NA,"SpaceAfter=No"
+"268","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","12",",",NA,"PUNCT",NA,NA,"9","punct",NA,NA
+"269","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","13","lalu",NA,"SCONJ",NA,NA,"15","mark",NA,NA
+"270","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","14","kita",NA,"PRON",NA,NA,"15","nsubj",NA,NA
+"271","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","15","kasih",NA,"VERB",NA,NA,"25","advcl",NA,NA
+"272","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","16","pengarahan",NA,"NOUN",NA,NA,"15","obj",NA,NA
+"273","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","17","kepada",NA,"ADP",NA,NA,"18","case",NA,NA
+"274","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","18","pengunjung",NA,"NOUN",NA,NA,"15","obl",NA,NA
+"275","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","19","itu",NA,"DET",NA,NA,"18","det",NA,NA
+"276","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","20","supaya",NA,"SCONJ",NA,NA,"25","mark",NA,NA
+"277","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","21","lain",NA,"ADJ",NA,NA,"20","amod",NA,NA
+"278","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","22","kali",NA,"ADV",NA,NA,"25","advmod",NA,NA
+"279","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","23","dia",NA,"PRON",NA,NA,"25","nsubj",NA,NA
+"280","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","24","tidak",NA,"PART",NA,"Polarity=Neg","25","advmod",NA,NA
+"281","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","25","melakukan",NA,"VERB",NA,NA,"0","root",NA,NA
+"282","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","26","itu",NA,"DET",NA,NA,"25","det",NA,NA
+"283","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","27","lagi",NA,"ADV",NA,NA,"25","advmod",NA,"SpaceAfter=No"
+"284","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","28",",",NA,"PUNCT",NA,NA,"25","punct",NA,NA
+"285","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","29","tidak",NA,"PART",NA,"Polarity=Neg","30","advmod",NA,NA
+"286","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","30","buang",NA,"VERB",NA,NA,"25","xcomp",NA,NA
+"287","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","31","sampah",NA,"NOUN",NA,NA,"30","obj",NA,NA
+"288","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","32","sembarangan",NA,"NOUN",NA,NA,"31","compound",NA,NA
+"289","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","33","lagi",NA,"ADV",NA,NA,"30","advmod",NA,"SpaceAfter=No"
+"290","doc17",1,1,"Misalnya ada pengunjung buang sampah sembarangan, kita pungut sampah itu, lalu kita kasih pengarahan kepada pengunjung itu supaya lain kali dia tidak melakukan itu lagi, tidak buang sampah sembarangan lagi.","34",".",NA,"PUNCT",NA,NA,"25","punct",NA,NA
+"291","doc17",1,2,"Seperti juga para pedagang, kami tidak melarang mereka menjual di sini, yang penting ikut aturan.","1","Seperti",NA,"ADP",NA,NA,"4","case",NA,NA
+"292","doc17",1,2,"Seperti juga para pedagang, kami tidak melarang mereka menjual di sini, yang penting ikut aturan.","2","juga",NA,"ADV",NA,NA,"1","advmod",NA,NA
+"293","doc17",1,2,"Seperti juga para pedagang, kami tidak melarang mereka menjual di sini, yang penting ikut aturan.","3","para",NA,"DET",NA,NA,"4","det",NA,NA
+"294","doc17",1,2,"Seperti juga para pedagang, kami tidak melarang mereka menjual di sini, yang penting ikut aturan.","4","pedagang",NA,"NOUN",NA,NA,"8","obl",NA,"SpaceAfter=No"
+"295","doc17",1,2,"Seperti juga para pedagang, kami tidak melarang mereka menjual di sini, yang penting ikut aturan.","5",",",NA,"PUNCT",NA,NA,"4","punct",NA,NA
+"296","doc17",1,2,"Seperti juga para pedagang, kami tidak melarang mereka menjual di sini, yang penting ikut aturan.","6","kami",NA,"PRON",NA,NA,"8","nsubj",NA,NA
+"297","doc17",1,2,"Seperti juga para pedagang, kami tidak melarang mereka menjual di sini, yang penting ikut aturan.","7","tidak",NA,"PART",NA,"Polarity=Neg","8","advmod",NA,NA
+"298","doc17",1,2,"Seperti juga para pedagang, kami tidak melarang mereka menjual di sini, yang penting ikut aturan.","8","melarang",NA,"VERB",NA,NA,"0","root",NA,NA
+"299","doc17",1,2,"Seperti juga para pedagang, kami tidak melarang mereka menjual di sini, yang penting ikut aturan.","9","mereka",NA,"PRON",NA,NA,"8","obj",NA,NA
+"300","doc17",1,2,"Seperti juga para pedagang, kami tidak melarang mereka menjual di sini, yang penting ikut aturan.","10","menjual",NA,"VERB",NA,NA,"8","xcomp",NA,NA
+"301","doc17",1,2,"Seperti juga para pedagang, kami tidak melarang mereka menjual di sini, yang penting ikut aturan.","11","di",NA,"ADP",NA,NA,"12","case",NA,NA
+"302","doc17",1,2,"Seperti juga para pedagang, kami tidak melarang mereka menjual di sini, yang penting ikut aturan.","12","sini",NA,"PRON",NA,NA,"10","obl",NA,"SpaceAfter=No"
+"303","doc17",1,2,"Seperti juga para pedagang, kami tidak melarang mereka menjual di sini, yang penting ikut aturan.","13",",",NA,"PUNCT",NA,NA,"10","punct",NA,NA
+"304","doc17",1,2,"Seperti juga para pedagang, kami tidak melarang mereka menjual di sini, yang penting ikut aturan.","14","yang",NA,"PRON",NA,NA,"16","nsubj",NA,NA
+"305","doc17",1,2,"Seperti juga para pedagang, kami tidak melarang mereka menjual di sini, yang penting ikut aturan.","15","penting",NA,"ADJ",NA,NA,"16","amod",NA,NA
+"306","doc17",1,2,"Seperti juga para pedagang, kami tidak melarang mereka menjual di sini, yang penting ikut aturan.","16","ikut",NA,"VERB",NA,NA,"10","acl",NA,NA
+"307","doc17",1,2,"Seperti juga para pedagang, kami tidak melarang mereka menjual di sini, yang penting ikut aturan.","17","aturan",NA,"NOUN",NA,NA,"16","obj",NA,"SpaceAfter=No"
+"308","doc17",1,2,"Seperti juga para pedagang, kami tidak melarang mereka menjual di sini, yang penting ikut aturan.","18",".",NA,"PUNCT",NA,NA,"8","punct",NA,NA
+"309","doc17",1,3,"Jangan sampai sehabis jualan langsung pulang.","1","Jangan",NA,"PART",NA,"Polarity=Neg","3","advmod",NA,NA
+"310","doc17",1,3,"Jangan sampai sehabis jualan langsung pulang.","2","sampai",NA,"ADP",NA,NA,"3","case",NA,NA
+"311","doc17",1,3,"Jangan sampai sehabis jualan langsung pulang.","3","sehabis",NA,"ADJ",NA,NA,"4","amod",NA,NA
+"312","doc17",1,3,"Jangan sampai sehabis jualan langsung pulang.","4","jualan",NA,"NOUN",NA,NA,"6","nsubj",NA,NA
+"313","doc17",1,3,"Jangan sampai sehabis jualan langsung pulang.","5","langsung",NA,"ADV",NA,NA,"6","advmod",NA,NA
+"314","doc17",1,3,"Jangan sampai sehabis jualan langsung pulang.","6","pulang",NA,"VERB",NA,NA,"0","root",NA,"SpaceAfter=No"
+"315","doc17",1,3,"Jangan sampai sehabis jualan langsung pulang.","7",".",NA,"PUNCT",NA,NA,"6","punct",NA,NA
+"316","doc17",1,4,"Kita itu harus kerja sama.","1","Kita",NA,"NOUN",NA,NA,"4","nsubj",NA,NA
+"317","doc17",1,4,"Kita itu harus kerja sama.","2","itu",NA,"DET",NA,NA,"1","det",NA,NA
+"318","doc17",1,4,"Kita itu harus kerja sama.","3","harus",NA,"ADV",NA,NA,"4","advmod",NA,NA
+"319","doc17",1,4,"Kita itu harus kerja sama.","4","kerja",NA,"NOUN",NA,NA,"0","root",NA,NA
+"320","doc17",1,4,"Kita itu harus kerja sama.","5","sama",NA,"ADJ",NA,NA,"4","amod",NA,"SpaceAfter=No"
+"321","doc17",1,4,"Kita itu harus kerja sama.","6",".",NA,"PUNCT",NA,NA,"4","punct",NA,"SpacesAfter=\s\n"
+"322","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","1","Pokoknya",NA,"NOUN",NA,NA,"4","nsubj:pass",NA,NA
+"323","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","2","kita",NA,"PRON",NA,NA,"1","det",NA,NA
+"324","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","3","harus",NA,"ADV",NA,NA,"4","advmod",NA,NA
+"325","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","4","mengerti",NA,"VERB",NA,NA,"0","root",NA,NA
+"326","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","5","dengan",NA,"ADP",NA,NA,"6","case",NA,NA
+"327","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","6","kesadaran",NA,"NOUN",NA,NA,"4","obl",NA,NA
+"328","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","7","sendiri",NA,"ADJ",NA,NA,"6","amod",NA,NA
+"329","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","8","bahwa",NA,"SCONJ",NA,NA,"9","mark",NA,NA
+"330","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","9","kebersihan",NA,"NOUN",NA,NA,"4","ccomp",NA,NA
+"331","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","10","itu",NA,"DET",NA,NA,"9","det",NA,NA
+"332","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","11","bukan",NA,"PART",NA,"Polarity=Neg","13","advmod",NA,NA
+"333","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","12","untuk",NA,"ADP",NA,NA,"13","case",NA,NA
+"334","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","13","kita",NA,"PRON",NA,NA,"9","nmod",NA,NA
+"335","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","14","sendiri",NA,"ADJ",NA,NA,"13","amod",NA,"SpaceAfter=No"
+"336","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","15",",",NA,"PUNCT",NA,NA,"13","punct",NA,NA
+"337","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","16","tapi",NA,"SCONJ",NA,NA,"18","mark",NA,NA
+"338","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","17","untuk",NA,"ADP",NA,NA,"18","case",NA,NA
+"339","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","18","kita",NA,"PRON",NA,NA,"13","nmod",NA,NA
+"340","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","19","semua",NA,"DET",NA,NA,"18","det",NA,"SpaceAfter=No"
+"341","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","20",",",NA,"PUNCT",NA,NA,"18","punct",NA,NA
+"342","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","21","untuk",NA,"ADP",NA,NA,"22","case",NA,NA
+"343","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","22","warga",NA,"NOUN",NA,NA,"18","nmod",NA,NA
+"344","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","23","Makassar",NA,"PROPN",NA,NA,"22","flat",NA,"SpaceAfter=No"
+"345","doc18",1,1,"Pokoknya kita harus mengerti dengan kesadaran sendiri bahwa kebersihan itu bukan untuk kita sendiri, tapi untuk kita semua, untuk warga Makassar.","24",".",NA,"PUNCT",NA,NA,"4","punct",NA,"SpacesAfter=\s\n"
+"346","doc19",1,1,"Pekerjaan sehari-harinya apa selain jualan?","1","Pekerjaan",NA,"PROPN",NA,NA,"0","root",NA,NA
+"347","doc19",1,1,"Pekerjaan sehari-harinya apa selain jualan?","2","sehari-harinya",NA,"NOUN",NA,NA,"1","compound",NA,NA
+"348","doc19",1,1,"Pekerjaan sehari-harinya apa selain jualan?","3","apa",NA,"NOUN",NA,NA,"1","compound",NA,NA
+"349","doc19",1,1,"Pekerjaan sehari-harinya apa selain jualan?","4","selain",NA,"ADP",NA,NA,"5","case",NA,NA
+"350","doc19",1,1,"Pekerjaan sehari-harinya apa selain jualan?","5","jualan",NA,"NOUN",NA,NA,"3","nmod",NA,"SpaceAfter=No"
+"351","doc19",1,1,"Pekerjaan sehari-harinya apa selain jualan?","6","?",NA,"PUNCT",NA,NA,"1","punct",NA,"SpacesAfter=\n"
+"352","doc20",1,1,"Hanya ini mata pencaharian saya.","1","Hanya",NA,"ADV",NA,NA,"2","advmod",NA,NA
+"353","doc20",1,1,"Hanya ini mata pencaharian saya.","2","ini",NA,"DET",NA,NA,"3","det",NA,NA
+"354","doc20",1,1,"Hanya ini mata pencaharian saya.","3","mata",NA,"NOUN",NA,NA,"0","root",NA,NA
+"355","doc20",1,1,"Hanya ini mata pencaharian saya.","4","pencaharian",NA,"NOUN",NA,NA,"3","compound",NA,NA
+"356","doc20",1,1,"Hanya ini mata pencaharian saya.","5","saya",NA,"PRON",NA,NA,"4","det",NA,"SpaceAfter=No"
+"357","doc20",1,1,"Hanya ini mata pencaharian saya.","6",".",NA,"PUNCT",NA,NA,"3","punct",NA,"SpacesAfter=\n"
+"358","doc21",1,1,"Bagaimana dengan penghasilan yang diperoleh, apakah sudah mencukupi kebutuhan keluarga?","1","Bagaimana",NA,"ADV",NA,NA,"9","advmod",NA,NA
+"359","doc21",1,1,"Bagaimana dengan penghasilan yang diperoleh, apakah sudah mencukupi kebutuhan keluarga?","2","dengan",NA,"ADP",NA,NA,"3","case",NA,NA
+"360","doc21",1,1,"Bagaimana dengan penghasilan yang diperoleh, apakah sudah mencukupi kebutuhan keluarga?","3","penghasilan",NA,"NOUN",NA,NA,"9","obl",NA,NA
+"361","doc21",1,1,"Bagaimana dengan penghasilan yang diperoleh, apakah sudah mencukupi kebutuhan keluarga?","4","yang",NA,"PRON",NA,NA,"5","nsubj:pass",NA,NA
+"362","doc21",1,1,"Bagaimana dengan penghasilan yang diperoleh, apakah sudah mencukupi kebutuhan keluarga?","5","diperoleh",NA,"VERB",NA,NA,"3","acl",NA,"SpaceAfter=No"
+"363","doc21",1,1,"Bagaimana dengan penghasilan yang diperoleh, apakah sudah mencukupi kebutuhan keluarga?","6",",",NA,"PUNCT",NA,NA,"9","punct",NA,NA
+"364","doc21",1,1,"Bagaimana dengan penghasilan yang diperoleh, apakah sudah mencukupi kebutuhan keluarga?","7","apakah",NA,"ADV",NA,NA,"9","advmod",NA,NA
+"365","doc21",1,1,"Bagaimana dengan penghasilan yang diperoleh, apakah sudah mencukupi kebutuhan keluarga?","8","sudah",NA,"ADV",NA,NA,"9","advmod",NA,NA
+"366","doc21",1,1,"Bagaimana dengan penghasilan yang diperoleh, apakah sudah mencukupi kebutuhan keluarga?","9","mencukupi",NA,"VERB",NA,NA,"0","root",NA,NA
+"367","doc21",1,1,"Bagaimana dengan penghasilan yang diperoleh, apakah sudah mencukupi kebutuhan keluarga?","10","kebutuhan",NA,"NOUN",NA,NA,"9","obj",NA,NA
+"368","doc21",1,1,"Bagaimana dengan penghasilan yang diperoleh, apakah sudah mencukupi kebutuhan keluarga?","11","keluarga",NA,"NOUN",NA,NA,"10","compound",NA,"SpaceAfter=No"
+"369","doc21",1,1,"Bagaimana dengan penghasilan yang diperoleh, apakah sudah mencukupi kebutuhan keluarga?","12","?",NA,"PUNCT",NA,NA,"9","punct",NA,"SpacesAfter=\n"
+"370","doc22",1,1,"Terus terang saja, kadang tidak.","1","Terus",NA,"PROPN",NA,NA,"2","nsubj:pass",NA,NA
+"371","doc22",1,1,"Terus terang saja, kadang tidak.","2","terang",NA,"VERB",NA,NA,"0","root",NA,NA
+"372","doc22",1,1,"Terus terang saja, kadang tidak.","3","saja",NA,"ADV",NA,NA,"2","advmod",NA,"SpaceAfter=No"
+"373","doc22",1,1,"Terus terang saja, kadang tidak.","4",",",NA,"PUNCT",NA,NA,"2","punct",NA,NA
+"374","doc22",1,1,"Terus terang saja, kadang tidak.","5","kadang",NA,"ADV",NA,NA,"2","advmod",NA,NA
+"375","doc22",1,1,"Terus terang saja, kadang tidak.","6","tidak",NA,"PART",NA,"Polarity=Neg","5","advmod",NA,"SpaceAfter=No"
+"376","doc22",1,1,"Terus terang saja, kadang tidak.","7",".",NA,"PUNCT",NA,NA,"2","punct",NA,NA
+"377","doc22",1,2,"Tapi yang penting kita bersyukur karena kita sudah berusaha.","1","Tapi",NA,"SCONJ",NA,NA,"5","mark",NA,NA
+"378","doc22",1,2,"Tapi yang penting kita bersyukur karena kita sudah berusaha.","2","yang",NA,"PRON",NA,NA,"3","nsubj",NA,NA
+"379","doc22",1,2,"Tapi yang penting kita bersyukur karena kita sudah berusaha.","3","penting",NA,"ADJ",NA,NA,"5","amod",NA,NA
+"380","doc22",1,2,"Tapi yang penting kita bersyukur karena kita sudah berusaha.","4","kita",NA,"PRON",NA,NA,"5","nsubj",NA,NA
+"381","doc22",1,2,"Tapi yang penting kita bersyukur karena kita sudah berusaha.","5","bersyukur",NA,"VERB",NA,NA,"0","root",NA,NA
+"382","doc22",1,2,"Tapi yang penting kita bersyukur karena kita sudah berusaha.","6","karena",NA,"SCONJ",NA,NA,"9","mark",NA,NA
+"383","doc22",1,2,"Tapi yang penting kita bersyukur karena kita sudah berusaha.","7","kita",NA,"PRON",NA,NA,"9","nsubj",NA,NA
+"384","doc22",1,2,"Tapi yang penting kita bersyukur karena kita sudah berusaha.","8","sudah",NA,"ADV",NA,NA,"9","advmod",NA,NA
+"385","doc22",1,2,"Tapi yang penting kita bersyukur karena kita sudah berusaha.","9","berusaha",NA,"VERB",NA,NA,"5","advcl",NA,"SpaceAfter=No"
+"386","doc22",1,2,"Tapi yang penting kita bersyukur karena kita sudah berusaha.","10",".",NA,"PUNCT",NA,NA,"5","punct",NA,NA
+"387","doc22",1,3,"Dulu kita jualan kecil-kecilan, tapi karena ada bantuan dari pemerintah, kita bisa tambah usaha seperti ini.","1","Dulu",NA,"NOUN",NA,NA,"0","root",NA,NA
+"388","doc22",1,3,"Dulu kita jualan kecil-kecilan, tapi karena ada bantuan dari pemerintah, kita bisa tambah usaha seperti ini.","2","kita",NA,"PRON",NA,NA,"1","det",NA,NA
+"389","doc22",1,3,"Dulu kita jualan kecil-kecilan, tapi karena ada bantuan dari pemerintah, kita bisa tambah usaha seperti ini.","3","jualan",NA,"NOUN",NA,NA,"2","compound",NA,NA
+"390","doc22",1,3,"Dulu kita jualan kecil-kecilan, tapi karena ada bantuan dari pemerintah, kita bisa tambah usaha seperti ini.","4","kecil-kecilan",NA,"ADJ",NA,NA,"3","amod",NA,"SpaceAfter=No"
+"391","doc22",1,3,"Dulu kita jualan kecil-kecilan, tapi karena ada bantuan dari pemerintah, kita bisa tambah usaha seperti ini.","5",",",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"392","doc22",1,3,"Dulu kita jualan kecil-kecilan, tapi karena ada bantuan dari pemerintah, kita bisa tambah usaha seperti ini.","6","tapi",NA,"CCONJ",NA,NA,"1","cc",NA,NA
+"393","doc22",1,3,"Dulu kita jualan kecil-kecilan, tapi karena ada bantuan dari pemerintah, kita bisa tambah usaha seperti ini.","7","karena",NA,"SCONJ",NA,NA,"8","mark",NA,NA
+"394","doc22",1,3,"Dulu kita jualan kecil-kecilan, tapi karena ada bantuan dari pemerintah, kita bisa tambah usaha seperti ini.","8","ada",NA,"VERB",NA,NA,"1","advcl",NA,NA
+"395","doc22",1,3,"Dulu kita jualan kecil-kecilan, tapi karena ada bantuan dari pemerintah, kita bisa tambah usaha seperti ini.","9","bantuan",NA,"NOUN",NA,NA,"8","obj",NA,NA
+"396","doc22",1,3,"Dulu kita jualan kecil-kecilan, tapi karena ada bantuan dari pemerintah, kita bisa tambah usaha seperti ini.","10","dari",NA,"ADP",NA,NA,"11","case",NA,NA
+"397","doc22",1,3,"Dulu kita jualan kecil-kecilan, tapi karena ada bantuan dari pemerintah, kita bisa tambah usaha seperti ini.","11","pemerintah",NA,"NOUN",NA,NA,"9","nmod",NA,"SpaceAfter=No"
+"398","doc22",1,3,"Dulu kita jualan kecil-kecilan, tapi karena ada bantuan dari pemerintah, kita bisa tambah usaha seperti ini.","12",",",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"399","doc22",1,3,"Dulu kita jualan kecil-kecilan, tapi karena ada bantuan dari pemerintah, kita bisa tambah usaha seperti ini.","13","kita",NA,"PRON",NA,NA,"15","nsubj",NA,NA
+"400","doc22",1,3,"Dulu kita jualan kecil-kecilan, tapi karena ada bantuan dari pemerintah, kita bisa tambah usaha seperti ini.","14","bisa",NA,"ADV",NA,NA,"15","advmod",NA,NA
+"401","doc22",1,3,"Dulu kita jualan kecil-kecilan, tapi karena ada bantuan dari pemerintah, kita bisa tambah usaha seperti ini.","15","tambah",NA,"VERB",NA,NA,"1","advcl",NA,NA
+"402","doc22",1,3,"Dulu kita jualan kecil-kecilan, tapi karena ada bantuan dari pemerintah, kita bisa tambah usaha seperti ini.","16","usaha",NA,"NOUN",NA,NA,"15","obl",NA,NA
+"403","doc22",1,3,"Dulu kita jualan kecil-kecilan, tapi karena ada bantuan dari pemerintah, kita bisa tambah usaha seperti ini.","17","seperti",NA,"ADP",NA,NA,"16","case",NA,NA
+"404","doc22",1,3,"Dulu kita jualan kecil-kecilan, tapi karena ada bantuan dari pemerintah, kita bisa tambah usaha seperti ini.","18","ini",NA,"DET",NA,NA,"16","det",NA,"SpaceAfter=No"
+"405","doc22",1,3,"Dulu kita jualan kecil-kecilan, tapi karena ada bantuan dari pemerintah, kita bisa tambah usaha seperti ini.","19",".",NA,"PUNCT",NA,NA,"1","punct",NA,"SpacesAfter=\s\n"
+"406","doc23",1,1,"Artinya, dengan dibukanya Pantai Losari ini bisa menambah lapangan kerja?","1","Artinya",NA,"NOUN",NA,NA,"9","nsubj",NA,"SpaceAfter=No"
+"407","doc23",1,1,"Artinya, dengan dibukanya Pantai Losari ini bisa menambah lapangan kerja?","2",",",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"408","doc23",1,1,"Artinya, dengan dibukanya Pantai Losari ini bisa menambah lapangan kerja?","3","dengan",NA,"ADP",NA,NA,"4","case",NA,NA
+"409","doc23",1,1,"Artinya, dengan dibukanya Pantai Losari ini bisa menambah lapangan kerja?","4","dibukanya",NA,"VERB",NA,NA,"1","acl",NA,NA
+"410","doc23",1,1,"Artinya, dengan dibukanya Pantai Losari ini bisa menambah lapangan kerja?","5","Pantai",NA,"PROPN",NA,NA,"1","flat",NA,NA
+"411","doc23",1,1,"Artinya, dengan dibukanya Pantai Losari ini bisa menambah lapangan kerja?","6","Losari",NA,"PROPN",NA,NA,"5","flat",NA,NA
+"412","doc23",1,1,"Artinya, dengan dibukanya Pantai Losari ini bisa menambah lapangan kerja?","7","ini",NA,"DET",NA,NA,"5","det",NA,NA
+"413","doc23",1,1,"Artinya, dengan dibukanya Pantai Losari ini bisa menambah lapangan kerja?","8","bisa",NA,"ADV",NA,NA,"9","advmod",NA,NA
+"414","doc23",1,1,"Artinya, dengan dibukanya Pantai Losari ini bisa menambah lapangan kerja?","9","menambah",NA,"VERB",NA,NA,"0","root",NA,NA
+"415","doc23",1,1,"Artinya, dengan dibukanya Pantai Losari ini bisa menambah lapangan kerja?","10","lapangan",NA,"NOUN",NA,NA,"9","obj",NA,NA
+"416","doc23",1,1,"Artinya, dengan dibukanya Pantai Losari ini bisa menambah lapangan kerja?","11","kerja",NA,"NOUN",NA,NA,"10","compound",NA,"SpaceAfter=No"
+"417","doc23",1,1,"Artinya, dengan dibukanya Pantai Losari ini bisa menambah lapangan kerja?","12","?",NA,"PUNCT",NA,NA,"9","punct",NA,"SpacesAfter=\n"
+"418","doc24",1,1,"Iya.","1","Iya",NA,"PROPN",NA,NA,"0","root",NA,"SpaceAfter=No"
+"419","doc24",1,1,"Iya.","2",".",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"420","doc24",1,2,"Betul, Pak.","1","Betul",NA,"PROPN",NA,NA,"0","root",NA,"SpaceAfter=No"
+"421","doc24",1,2,"Betul, Pak.","2",",",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"422","doc24",1,2,"Betul, Pak.","3","Pak",NA,"PROPN",NA,NA,"1","appos",NA,"SpaceAfter=No"
+"423","doc24",1,2,"Betul, Pak.","4",".",NA,"PUNCT",NA,NA,"1","punct",NA,"SpacesAfter=\n"
+"424","doc25",1,1,"Terus terang dulu saya bawa becak.","1","Terus",NA,"PROPN",NA,NA,"2","nsubj",NA,NA
+"425","doc25",1,1,"Terus terang dulu saya bawa becak.","2","terang",NA,"VERB",NA,NA,"0","root",NA,NA
+"426","doc25",1,1,"Terus terang dulu saya bawa becak.","3","dulu",NA,"ADV",NA,NA,"4","advmod",NA,NA
+"427","doc25",1,1,"Terus terang dulu saya bawa becak.","4","saya",NA,"PRON",NA,NA,"2","obj",NA,NA
+"428","doc25",1,1,"Terus terang dulu saya bawa becak.","5","bawa",NA,"NOUN",NA,NA,"4","acl",NA,NA
+"429","doc25",1,1,"Terus terang dulu saya bawa becak.","6","becak",NA,"ADJ",NA,NA,"5","amod",NA,"SpaceAfter=No"
+"430","doc25",1,1,"Terus terang dulu saya bawa becak.","7",".",NA,"PUNCT",NA,NA,"2","punct",NA,NA
+"431","doc25",1,2,"Tapi karena penghasilannya begitu, saya coba mengadu nasib di sini.","1","Tapi",NA,"SCONJ",NA,NA,"3","mark",NA,NA
+"432","doc25",1,2,"Tapi karena penghasilannya begitu, saya coba mengadu nasib di sini.","2","karena",NA,"CCONJ",NA,NA,"3","cc",NA,NA
+"433","doc25",1,2,"Tapi karena penghasilannya begitu, saya coba mengadu nasib di sini.","3","penghasilannya",NA,"NOUN",NA,NA,"0","root",NA,NA
+"434","doc25",1,2,"Tapi karena penghasilannya begitu, saya coba mengadu nasib di sini.","4","begitu",NA,"ADV",NA,NA,"3","advmod",NA,"SpaceAfter=No"
+"435","doc25",1,2,"Tapi karena penghasilannya begitu, saya coba mengadu nasib di sini.","5",",",NA,"PUNCT",NA,NA,"3","punct",NA,NA
+"436","doc25",1,2,"Tapi karena penghasilannya begitu, saya coba mengadu nasib di sini.","6","saya",NA,"PRON",NA,NA,"7","det",NA,NA
+"437","doc25",1,2,"Tapi karena penghasilannya begitu, saya coba mengadu nasib di sini.","7","coba",NA,"NOUN",NA,NA,"3","appos",NA,NA
+"438","doc25",1,2,"Tapi karena penghasilannya begitu, saya coba mengadu nasib di sini.","8","mengadu",NA,"VERB",NA,NA,"7","acl",NA,NA
+"439","doc25",1,2,"Tapi karena penghasilannya begitu, saya coba mengadu nasib di sini.","9","nasib",NA,"NOUN",NA,NA,"8","obj",NA,NA
+"440","doc25",1,2,"Tapi karena penghasilannya begitu, saya coba mengadu nasib di sini.","10","di",NA,"ADP",NA,NA,"11","case",NA,NA
+"441","doc25",1,2,"Tapi karena penghasilannya begitu, saya coba mengadu nasib di sini.","11","sini",NA,"PRON",NA,NA,"8","obl",NA,"SpaceAfter=No"
+"442","doc25",1,2,"Tapi karena penghasilannya begitu, saya coba mengadu nasib di sini.","12",".",NA,"PUNCT",NA,NA,"3","punct",NA,NA
+"443","doc25",1,3,"Alhamdulillah.","1","Alhamdulillah",NA,"PROPN",NA,NA,"0","root",NA,"SpaceAfter=No"
+"444","doc25",1,3,"Alhamdulillah.","2",".",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"445","doc25",1,4,"Dulu kita sering dikejar-kejar.","1","Dulu",NA,"NOUN",NA,NA,"4","nsubj:pass",NA,NA
+"446","doc25",1,4,"Dulu kita sering dikejar-kejar.","2","kita",NA,"PRON",NA,NA,"1","det",NA,NA
+"447","doc25",1,4,"Dulu kita sering dikejar-kejar.","3","sering",NA,"ADV",NA,NA,"4","advmod",NA,NA
+"448","doc25",1,4,"Dulu kita sering dikejar-kejar.","4","dikejar-kejar",NA,"VERB",NA,NA,"0","root",NA,"SpaceAfter=No"
+"449","doc25",1,4,"Dulu kita sering dikejar-kejar.","5",".",NA,"PUNCT",NA,NA,"4","punct",NA,NA
+"450","doc25",1,5,"Tapi kita hidup di sini mau baik-baik.","1","Tapi",NA,"SCONJ",NA,NA,"3","mark",NA,NA
+"451","doc25",1,5,"Tapi kita hidup di sini mau baik-baik.","2","kita",NA,"PRON",NA,NA,"3","nsubj",NA,NA
+"452","doc25",1,5,"Tapi kita hidup di sini mau baik-baik.","3","hidup",NA,"VERB",NA,NA,"0","root",NA,NA
+"453","doc25",1,5,"Tapi kita hidup di sini mau baik-baik.","4","di",NA,"ADP",NA,NA,"5","case",NA,NA
+"454","doc25",1,5,"Tapi kita hidup di sini mau baik-baik.","5","sini",NA,"PRON",NA,NA,"3","obl",NA,NA
+"455","doc25",1,5,"Tapi kita hidup di sini mau baik-baik.","6","mau",NA,"ADV",NA,NA,"3","advmod",NA,NA
+"456","doc25",1,5,"Tapi kita hidup di sini mau baik-baik.","7","baik-baik",NA,"ADJ",NA,NA,"3","amod",NA,"SpaceAfter=No"
+"457","doc25",1,5,"Tapi kita hidup di sini mau baik-baik.","8",".",NA,"PUNCT",NA,NA,"3","punct",NA,NA
+"458","doc25",1,6,"Ketika ada hasil rapat mengenai kebersihan, kita setuju dengan pentingnya kebersihan.","1","Ketika",NA,"SCONJ",NA,NA,"2","mark",NA,NA
+"459","doc25",1,6,"Ketika ada hasil rapat mengenai kebersihan, kita setuju dengan pentingnya kebersihan.","2","ada",NA,"VERB",NA,NA,"9","advcl",NA,NA
+"460","doc25",1,6,"Ketika ada hasil rapat mengenai kebersihan, kita setuju dengan pentingnya kebersihan.","3","hasil",NA,"NOUN",NA,NA,"2","obj",NA,NA
+"461","doc25",1,6,"Ketika ada hasil rapat mengenai kebersihan, kita setuju dengan pentingnya kebersihan.","4","rapat",NA,"NOUN",NA,NA,"3","compound",NA,NA
+"462","doc25",1,6,"Ketika ada hasil rapat mengenai kebersihan, kita setuju dengan pentingnya kebersihan.","5","mengenai",NA,"ADP",NA,NA,"6","case",NA,NA
+"463","doc25",1,6,"Ketika ada hasil rapat mengenai kebersihan, kita setuju dengan pentingnya kebersihan.","6","kebersihan",NA,"NOUN",NA,NA,"3","nmod",NA,"SpaceAfter=No"
+"464","doc25",1,6,"Ketika ada hasil rapat mengenai kebersihan, kita setuju dengan pentingnya kebersihan.","7",",",NA,"PUNCT",NA,NA,"2","punct",NA,NA
+"465","doc25",1,6,"Ketika ada hasil rapat mengenai kebersihan, kita setuju dengan pentingnya kebersihan.","8","kita",NA,"PRON",NA,NA,"9","nsubj",NA,NA
+"466","doc25",1,6,"Ketika ada hasil rapat mengenai kebersihan, kita setuju dengan pentingnya kebersihan.","9","setuju",NA,"VERB",NA,NA,"0","root",NA,NA
+"467","doc25",1,6,"Ketika ada hasil rapat mengenai kebersihan, kita setuju dengan pentingnya kebersihan.","10","dengan",NA,"ADP",NA,NA,"11","case",NA,NA
+"468","doc25",1,6,"Ketika ada hasil rapat mengenai kebersihan, kita setuju dengan pentingnya kebersihan.","11","pentingnya",NA,"NOUN",NA,NA,"9","obl",NA,NA
+"469","doc25",1,6,"Ketika ada hasil rapat mengenai kebersihan, kita setuju dengan pentingnya kebersihan.","12","kebersihan",NA,"NOUN",NA,NA,"11","compound",NA,"SpaceAfter=No"
+"470","doc25",1,6,"Ketika ada hasil rapat mengenai kebersihan, kita setuju dengan pentingnya kebersihan.","13",".",NA,"PUNCT",NA,NA,"9","punct",NA,"SpacesAfter=\n"
+"471","doc26",1,1,"Berapa jumlah penjual di sini?","1","Berapa",NA,"ADV",NA,NA,"2","advmod",NA,NA
+"472","doc26",1,1,"Berapa jumlah penjual di sini?","2","jumlah",NA,"NOUN",NA,NA,"0","root",NA,NA
+"473","doc26",1,1,"Berapa jumlah penjual di sini?","3","penjual",NA,"NOUN",NA,NA,"2","compound",NA,NA
+"474","doc26",1,1,"Berapa jumlah penjual di sini?","4","di",NA,"ADP",NA,NA,"5","case",NA,NA
+"475","doc26",1,1,"Berapa jumlah penjual di sini?","5","sini",NA,"NOUN",NA,NA,"2","nmod",NA,"SpaceAfter=No"
+"476","doc26",1,1,"Berapa jumlah penjual di sini?","6","?",NA,"PUNCT",NA,NA,"2","punct",NA,"SpacesAfter=\n"
+"477","doc27",1,1,"Kita di sini ada ketua kelompoknya.","1","Kita",NA,"PROPN",NA,NA,"4","nsubj",NA,NA
+"478","doc27",1,1,"Kita di sini ada ketua kelompoknya.","2","di",NA,"ADP",NA,NA,"3","case",NA,NA
+"479","doc27",1,1,"Kita di sini ada ketua kelompoknya.","3","sini",NA,"PRON",NA,NA,"1","nmod",NA,NA
+"480","doc27",1,1,"Kita di sini ada ketua kelompoknya.","4","ada",NA,"VERB",NA,NA,"0","root",NA,NA
+"481","doc27",1,1,"Kita di sini ada ketua kelompoknya.","5","ketua",NA,"NOUN",NA,NA,"4","obj",NA,NA
+"482","doc27",1,1,"Kita di sini ada ketua kelompoknya.","6","kelompoknya",NA,"NOUN",NA,NA,"5","compound",NA,"SpaceAfter=No"
+"483","doc27",1,1,"Kita di sini ada ketua kelompoknya.","7",".",NA,"PUNCT",NA,NA,"4","punct",NA,"SpacesAfter=\n"
+"484","doc28",1,1,"Terkoordinir?","1","Terkoordinir",NA,"PROPN",NA,NA,"0","root",NA,"SpaceAfter=No"
+"485","doc28",1,1,"Terkoordinir?","2","?",NA,"PUNCT",NA,NA,"1","punct",NA,"SpacesAfter=\n"
+"486","doc29",1,1,"Iya.","1","Iya",NA,"PROPN",NA,NA,"0","root",NA,"SpaceAfter=No"
+"487","doc29",1,1,"Iya.","2",".",NA,"PUNCT",NA,NA,"1","punct",NA,"SpacesAfter=\n"
+"488","doc30",1,1,"Ada berapa orang?","1","Ada",NA,"VERB",NA,NA,"0","root",NA,NA
+"489","doc30",1,1,"Ada berapa orang?","2","berapa",NA,"DET",NA,NA,"3","det",NA,NA
+"490","doc30",1,1,"Ada berapa orang?","3","orang",NA,"NOUN",NA,NA,"1","obj",NA,"SpaceAfter=No"
+"491","doc30",1,1,"Ada berapa orang?","4","?",NA,"PUNCT",NA,NA,"1","punct",NA,"SpacesAfter=\n"
+"492","doc31",1,1,"Ada tiga tim di Pantai Losari.","1","Ada",NA,"VERB",NA,NA,"0","root",NA,NA
+"493","doc31",1,1,"Ada tiga tim di Pantai Losari.","2","tiga",NA,"NUM",NA,"NumType=Card","3","nummod",NA,NA
+"494","doc31",1,1,"Ada tiga tim di Pantai Losari.","3","tim",NA,"NOUN",NA,NA,"1","obj",NA,NA
+"495","doc31",1,1,"Ada tiga tim di Pantai Losari.","4","di",NA,"ADP",NA,NA,"5","case",NA,NA
+"496","doc31",1,1,"Ada tiga tim di Pantai Losari.","5","Pantai",NA,"PROPN",NA,NA,"3","nmod",NA,NA
+"497","doc31",1,1,"Ada tiga tim di Pantai Losari.","6","Losari",NA,"PROPN",NA,NA,"5","flat",NA,"SpaceAfter=No"
+"498","doc31",1,1,"Ada tiga tim di Pantai Losari.","7",".",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"499","doc31",1,2,"Ada bendahara, ada ketua kebersihan, ada pengawas.","1","Ada",NA,"VERB",NA,NA,"0","root",NA,NA
+"500","doc31",1,2,"Ada bendahara, ada ketua kebersihan, ada pengawas.","2","bendahara",NA,"NOUN",NA,NA,"1","obj",NA,"SpaceAfter=No"
+"501","doc31",1,2,"Ada bendahara, ada ketua kebersihan, ada pengawas.","3",",",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"502","doc31",1,2,"Ada bendahara, ada ketua kebersihan, ada pengawas.","4","ada",NA,"VERB",NA,NA,"1","xcomp",NA,NA
+"503","doc31",1,2,"Ada bendahara, ada ketua kebersihan, ada pengawas.","5","ketua",NA,"NOUN",NA,NA,"4","obj",NA,NA
+"504","doc31",1,2,"Ada bendahara, ada ketua kebersihan, ada pengawas.","6","kebersihan",NA,"NOUN",NA,NA,"5","compound",NA,"SpaceAfter=No"
+"505","doc31",1,2,"Ada bendahara, ada ketua kebersihan, ada pengawas.","7",",",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"506","doc31",1,2,"Ada bendahara, ada ketua kebersihan, ada pengawas.","8","ada",NA,"VERB",NA,NA,"1","xcomp",NA,NA
+"507","doc31",1,2,"Ada bendahara, ada ketua kebersihan, ada pengawas.","9","pengawas",NA,"NOUN",NA,NA,"8","obj",NA,"SpaceAfter=No"
+"508","doc31",1,2,"Ada bendahara, ada ketua kebersihan, ada pengawas.","10",".",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"509","doc31",1,3,"Sampah sekecil apa pun, seperti puntung rokok, itu kita perhatikan.","1","Sampah",NA,"NOUN",NA,NA,"12","nsubj",NA,NA
+"510","doc31",1,3,"Sampah sekecil apa pun, seperti puntung rokok, itu kita perhatikan.","2","sekecil",NA,"NOUN",NA,NA,"1","compound",NA,NA
+"511","doc31",1,3,"Sampah sekecil apa pun, seperti puntung rokok, itu kita perhatikan.","3","apa",NA,"NOUN",NA,NA,"1","compound",NA,NA
+"512","doc31",1,3,"Sampah sekecil apa pun, seperti puntung rokok, itu kita perhatikan.","4","pun",NA,"PART",NA,NA,"3","advmod",NA,"SpaceAfter=No"
+"513","doc31",1,3,"Sampah sekecil apa pun, seperti puntung rokok, itu kita perhatikan.","5",",",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"514","doc31",1,3,"Sampah sekecil apa pun, seperti puntung rokok, itu kita perhatikan.","6","seperti",NA,"ADP",NA,NA,"7","case",NA,NA
+"515","doc31",1,3,"Sampah sekecil apa pun, seperti puntung rokok, itu kita perhatikan.","7","puntung",NA,"NOUN",NA,NA,"1","nmod",NA,NA
+"516","doc31",1,3,"Sampah sekecil apa pun, seperti puntung rokok, itu kita perhatikan.","8","rokok",NA,"NOUN",NA,NA,"7","compound",NA,"SpaceAfter=No"
+"517","doc31",1,3,"Sampah sekecil apa pun, seperti puntung rokok, itu kita perhatikan.","9",",",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"518","doc31",1,3,"Sampah sekecil apa pun, seperti puntung rokok, itu kita perhatikan.","10","itu",NA,"DET",NA,NA,"1","det",NA,NA
+"519","doc31",1,3,"Sampah sekecil apa pun, seperti puntung rokok, itu kita perhatikan.","11","kita",NA,"PRON",NA,NA,"12","nsubj:pass",NA,NA
+"520","doc31",1,3,"Sampah sekecil apa pun, seperti puntung rokok, itu kita perhatikan.","12","perhatikan",NA,"VERB",NA,NA,"0","root",NA,"SpaceAfter=No"
+"521","doc31",1,3,"Sampah sekecil apa pun, seperti puntung rokok, itu kita perhatikan.","13",".",NA,"PUNCT",NA,NA,"12","punct",NA,"SpacesAfter=\n"
+"522","doc32",1,1,"Berapa jumlah penjual di sini?","1","Berapa",NA,"ADV",NA,NA,"2","advmod",NA,NA
+"523","doc32",1,1,"Berapa jumlah penjual di sini?","2","jumlah",NA,"NOUN",NA,NA,"0","root",NA,NA
+"524","doc32",1,1,"Berapa jumlah penjual di sini?","3","penjual",NA,"NOUN",NA,NA,"2","compound",NA,NA
+"525","doc32",1,1,"Berapa jumlah penjual di sini?","4","di",NA,"ADP",NA,NA,"5","case",NA,NA
+"526","doc32",1,1,"Berapa jumlah penjual di sini?","5","sini",NA,"NOUN",NA,NA,"2","nmod",NA,"SpaceAfter=No"
+"527","doc32",1,1,"Berapa jumlah penjual di sini?","6","?",NA,"PUNCT",NA,NA,"2","punct",NA,"SpacesAfter=\n"
+"528","doc33",1,1,"152 kalau tidak salah.","1","152",NA,"NUM",NA,"NumType=Card","4","nummod",NA,NA
+"529","doc33",1,1,"152 kalau tidak salah.","2","kalau",NA,"SCONJ",NA,NA,"4","mark",NA,NA
+"530","doc33",1,1,"152 kalau tidak salah.","3","tidak",NA,"PART",NA,"Polarity=Neg","4","advmod",NA,NA
+"531","doc33",1,1,"152 kalau tidak salah.","4","salah",NA,"VERB",NA,NA,"0","root",NA,"SpaceAfter=No"
+"532","doc33",1,1,"152 kalau tidak salah.","5",".",NA,"PUNCT",NA,NA,"4","punct",NA,"SpacesAfter=\n"
+"533","doc34",1,1,"Itu setiap hari dagang di sini?","1","Itu",NA,"DET",NA,NA,"3","det",NA,NA
+"534","doc34",1,1,"Itu setiap hari dagang di sini?","2","setiap",NA,"DET",NA,NA,"3","det",NA,NA
+"535","doc34",1,1,"Itu setiap hari dagang di sini?","3","hari",NA,"NOUN",NA,NA,"4","nsubj",NA,NA
+"536","doc34",1,1,"Itu setiap hari dagang di sini?","4","dagang",NA,"VERB",NA,NA,"0","root",NA,NA
+"537","doc34",1,1,"Itu setiap hari dagang di sini?","5","di",NA,"ADP",NA,NA,"6","case",NA,NA
+"538","doc34",1,1,"Itu setiap hari dagang di sini?","6","sini",NA,"NOUN",NA,NA,"4","obl",NA,"SpaceAfter=No"
+"539","doc34",1,1,"Itu setiap hari dagang di sini?","7","?",NA,"PUNCT",NA,NA,"4","punct",NA,"SpacesAfter=\n"
+"540","doc35",1,1,"Iya.","1","Iya",NA,"PROPN",NA,NA,"0","root",NA,"SpaceAfter=No"
+"541","doc35",1,1,"Iya.","2",".",NA,"PUNCT",NA,NA,"1","punct",NA,"SpacesAfter=\n"
+"542","doc36",1,1,"Tapi kadang-kadang juga tidak semuanya aktif.","1","Tapi",NA,"SCONJ",NA,NA,"5","mark",NA,NA
+"543","doc36",1,1,"Tapi kadang-kadang juga tidak semuanya aktif.","2","kadang-kadang",NA,"ADV",NA,NA,"5","advmod",NA,NA
+"544","doc36",1,1,"Tapi kadang-kadang juga tidak semuanya aktif.","3","juga",NA,"ADV",NA,NA,"5","advmod",NA,NA
+"545","doc36",1,1,"Tapi kadang-kadang juga tidak semuanya aktif.","4","tidak",NA,"PART",NA,"Polarity=Neg","5","advmod",NA,NA
+"546","doc36",1,1,"Tapi kadang-kadang juga tidak semuanya aktif.","5","semuanya",NA,"NOUN",NA,NA,"0","root",NA,NA
+"547","doc36",1,1,"Tapi kadang-kadang juga tidak semuanya aktif.","6","aktif",NA,"ADJ",NA,NA,"5","amod",NA,"SpaceAfter=No"
+"548","doc36",1,1,"Tapi kadang-kadang juga tidak semuanya aktif.","7",".",NA,"PUNCT",NA,NA,"5","punct",NA,NA
+"549","doc36",1,2,"Kadang ada juga yang tidak datang.","1","Kadang",NA,"PROPN",NA,NA,"2","nsubj",NA,NA
+"550","doc36",1,2,"Kadang ada juga yang tidak datang.","2","ada",NA,"VERB",NA,NA,"0","root",NA,NA
+"551","doc36",1,2,"Kadang ada juga yang tidak datang.","3","juga",NA,"ADV",NA,NA,"2","advmod",NA,NA
+"552","doc36",1,2,"Kadang ada juga yang tidak datang.","4","yang",NA,"PRON",NA,NA,"6","nsubj",NA,NA
+"553","doc36",1,2,"Kadang ada juga yang tidak datang.","5","tidak",NA,"PART",NA,"Polarity=Neg","6","advmod",NA,NA
+"554","doc36",1,2,"Kadang ada juga yang tidak datang.","6","datang",NA,"VERB",NA,NA,"2","acl",NA,"SpaceAfter=No"
+"555","doc36",1,2,"Kadang ada juga yang tidak datang.","7",".",NA,"PUNCT",NA,NA,"2","punct",NA,NA
+"556","doc36",1,3,"Tapi kalau biasanya ada event-event terbuka, itu bukan dari sini saja.","1","Tapi",NA,"SCONJ",NA,NA,"4","mark",NA,NA
+"557","doc36",1,3,"Tapi kalau biasanya ada event-event terbuka, itu bukan dari sini saja.","2","kalau",NA,"SCONJ",NA,NA,"4","mark",NA,NA
+"558","doc36",1,3,"Tapi kalau biasanya ada event-event terbuka, itu bukan dari sini saja.","3","biasanya",NA,"ADV",NA,NA,"4","advmod",NA,NA
+"559","doc36",1,3,"Tapi kalau biasanya ada event-event terbuka, itu bukan dari sini saja.","4","ada",NA,"VERB",NA,NA,"6","advcl",NA,NA
+"560","doc36",1,3,"Tapi kalau biasanya ada event-event terbuka, itu bukan dari sini saja.","5","event-event",NA,"NOUN",NA,NA,"6","nsubj:pass",NA,NA
+"561","doc36",1,3,"Tapi kalau biasanya ada event-event terbuka, itu bukan dari sini saja.","6","terbuka",NA,"VERB",NA,NA,"0","root",NA,"SpaceAfter=No"
+"562","doc36",1,3,"Tapi kalau biasanya ada event-event terbuka, itu bukan dari sini saja.","7",",",NA,"PUNCT",NA,NA,"6","punct",NA,NA
+"563","doc36",1,3,"Tapi kalau biasanya ada event-event terbuka, itu bukan dari sini saja.","8","itu",NA,"DET",NA,NA,"6","det",NA,NA
+"564","doc36",1,3,"Tapi kalau biasanya ada event-event terbuka, itu bukan dari sini saja.","9","bukan",NA,"PART",NA,"Polarity=Neg","11","advmod",NA,NA
+"565","doc36",1,3,"Tapi kalau biasanya ada event-event terbuka, itu bukan dari sini saja.","10","dari",NA,"ADP",NA,NA,"11","case",NA,NA
+"566","doc36",1,3,"Tapi kalau biasanya ada event-event terbuka, itu bukan dari sini saja.","11","sini",NA,"PRON",NA,NA,"6","obl",NA,NA
+"567","doc36",1,3,"Tapi kalau biasanya ada event-event terbuka, itu bukan dari sini saja.","12","saja",NA,"ADV",NA,NA,"11","advmod",NA,"SpaceAfter=No"
+"568","doc36",1,3,"Tapi kalau biasanya ada event-event terbuka, itu bukan dari sini saja.","13",".",NA,"PUNCT",NA,NA,"6","punct",NA,NA
+"569","doc36",1,4,"Dari luar ada yang datang juga.","1","Dari",NA,"ADP",NA,NA,"2","case",NA,NA
+"570","doc36",1,4,"Dari luar ada yang datang juga.","2","luar",NA,"NOUN",NA,NA,"5","obl",NA,NA
+"571","doc36",1,4,"Dari luar ada yang datang juga.","3","ada",NA,"VERB",NA,NA,"2","acl",NA,NA
+"572","doc36",1,4,"Dari luar ada yang datang juga.","4","yang",NA,"PRON",NA,NA,"5","nsubj",NA,NA
+"573","doc36",1,4,"Dari luar ada yang datang juga.","5","datang",NA,"VERB",NA,NA,"0","root",NA,NA
+"574","doc36",1,4,"Dari luar ada yang datang juga.","6","juga",NA,"ADV",NA,NA,"5","advmod",NA,"SpaceAfter=No"
+"575","doc36",1,4,"Dari luar ada yang datang juga.","7",".",NA,"PUNCT",NA,NA,"5","punct",NA,NA
+"576","doc36",1,5,"Nah, itulah yang bisa bikin kendala, karena orang di sana itu tidak jaga kebersihan.","1","Nah",NA,"ADV",NA,NA,"3","advmod",NA,"SpaceAfter=No"
+"577","doc36",1,5,"Nah, itulah yang bisa bikin kendala, karena orang di sana itu tidak jaga kebersihan.","2",",",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"578","doc36",1,5,"Nah, itulah yang bisa bikin kendala, karena orang di sana itu tidak jaga kebersihan.","3","itulah",NA,"NOUN",NA,NA,"0","root",NA,NA
+"579","doc36",1,5,"Nah, itulah yang bisa bikin kendala, karena orang di sana itu tidak jaga kebersihan.","4","yang",NA,"PRON",NA,NA,"6","nsubj:pass",NA,NA
+"580","doc36",1,5,"Nah, itulah yang bisa bikin kendala, karena orang di sana itu tidak jaga kebersihan.","5","bisa",NA,"ADV",NA,NA,"6","advmod",NA,NA
+"581","doc36",1,5,"Nah, itulah yang bisa bikin kendala, karena orang di sana itu tidak jaga kebersihan.","6","bikin",NA,"VERB",NA,NA,"3","acl",NA,NA
+"582","doc36",1,5,"Nah, itulah yang bisa bikin kendala, karena orang di sana itu tidak jaga kebersihan.","7","kendala",NA,"NOUN",NA,NA,"6","obj",NA,"SpaceAfter=No"
+"583","doc36",1,5,"Nah, itulah yang bisa bikin kendala, karena orang di sana itu tidak jaga kebersihan.","8",",",NA,"PUNCT",NA,NA,"3","punct",NA,NA
+"584","doc36",1,5,"Nah, itulah yang bisa bikin kendala, karena orang di sana itu tidak jaga kebersihan.","9","karena",NA,"SCONJ",NA,NA,"10","mark",NA,NA
+"585","doc36",1,5,"Nah, itulah yang bisa bikin kendala, karena orang di sana itu tidak jaga kebersihan.","10","orang",NA,"NOUN",NA,NA,"3","advcl",NA,NA
+"586","doc36",1,5,"Nah, itulah yang bisa bikin kendala, karena orang di sana itu tidak jaga kebersihan.","11","di",NA,"ADP",NA,NA,"12","case",NA,NA
+"587","doc36",1,5,"Nah, itulah yang bisa bikin kendala, karena orang di sana itu tidak jaga kebersihan.","12","sana",NA,"NOUN",NA,NA,"10","nmod",NA,NA
+"588","doc36",1,5,"Nah, itulah yang bisa bikin kendala, karena orang di sana itu tidak jaga kebersihan.","13","itu",NA,"DET",NA,NA,"12","det",NA,NA
+"589","doc36",1,5,"Nah, itulah yang bisa bikin kendala, karena orang di sana itu tidak jaga kebersihan.","14","tidak",NA,"PART",NA,"Polarity=Neg","15","advmod",NA,NA
+"590","doc36",1,5,"Nah, itulah yang bisa bikin kendala, karena orang di sana itu tidak jaga kebersihan.","15","jaga",NA,"NOUN",NA,NA,"10","amod",NA,NA
+"591","doc36",1,5,"Nah, itulah yang bisa bikin kendala, karena orang di sana itu tidak jaga kebersihan.","16","kebersihan",NA,"NOUN",NA,NA,"15","compound",NA,"SpaceAfter=No"
+"592","doc36",1,5,"Nah, itulah yang bisa bikin kendala, karena orang di sana itu tidak jaga kebersihan.","17",".",NA,"PUNCT",NA,NA,"3","punct",NA,NA
+"593","doc36",1,6,"Kalau kita orang di sini sudah jaga kebersihan karena kita sering ada rapat.","1","Kalau",NA,"SCONJ",NA,NA,"3","mark",NA,NA
+"594","doc36",1,6,"Kalau kita orang di sini sudah jaga kebersihan karena kita sering ada rapat.","2","kita",NA,"PRON",NA,NA,"3","nsubj",NA,NA
+"595","doc36",1,6,"Kalau kita orang di sini sudah jaga kebersihan karena kita sering ada rapat.","3","orang",NA,"NOUN",NA,NA,"7","nsubj",NA,NA
+"596","doc36",1,6,"Kalau kita orang di sini sudah jaga kebersihan karena kita sering ada rapat.","4","di",NA,"ADP",NA,NA,"5","case",NA,NA
+"597","doc36",1,6,"Kalau kita orang di sini sudah jaga kebersihan karena kita sering ada rapat.","5","sini",NA,"PROPN",NA,NA,"3","nmod",NA,NA
+"598","doc36",1,6,"Kalau kita orang di sini sudah jaga kebersihan karena kita sering ada rapat.","6","sudah",NA,"ADV",NA,NA,"7","advmod",NA,NA
+"599","doc36",1,6,"Kalau kita orang di sini sudah jaga kebersihan karena kita sering ada rapat.","7","jaga",NA,"VERB",NA,NA,"0","root",NA,NA
+"600","doc36",1,6,"Kalau kita orang di sini sudah jaga kebersihan karena kita sering ada rapat.","8","kebersihan",NA,"NOUN",NA,NA,"7","obj",NA,NA
+"601","doc36",1,6,"Kalau kita orang di sini sudah jaga kebersihan karena kita sering ada rapat.","9","karena",NA,"SCONJ",NA,NA,"12","mark",NA,NA
+"602","doc36",1,6,"Kalau kita orang di sini sudah jaga kebersihan karena kita sering ada rapat.","10","kita",NA,"PRON",NA,NA,"12","nsubj",NA,NA
+"603","doc36",1,6,"Kalau kita orang di sini sudah jaga kebersihan karena kita sering ada rapat.","11","sering",NA,"ADV",NA,NA,"12","advmod",NA,NA
+"604","doc36",1,6,"Kalau kita orang di sini sudah jaga kebersihan karena kita sering ada rapat.","12","ada",NA,"VERB",NA,NA,"7","advcl",NA,NA
+"605","doc36",1,6,"Kalau kita orang di sini sudah jaga kebersihan karena kita sering ada rapat.","13","rapat",NA,"NOUN",NA,NA,"12","obj",NA,"SpaceAfter=No"
+"606","doc36",1,6,"Kalau kita orang di sini sudah jaga kebersihan karena kita sering ada rapat.","14",".",NA,"PUNCT",NA,NA,"7","punct",NA,NA
+"607","doc36",1,7,"Jadi, percuma.","1","Jadi",NA,"SCONJ",NA,NA,"3","mark",NA,"SpaceAfter=No"
+"608","doc36",1,7,"Jadi, percuma.","2",",",NA,"PUNCT",NA,NA,"3","punct",NA,NA
+"609","doc36",1,7,"Jadi, percuma.","3","percuma",NA,"NOUN",NA,NA,"0","root",NA,"SpaceAfter=No"
+"610","doc36",1,7,"Jadi, percuma.","4",".",NA,"PUNCT",NA,NA,"3","punct",NA,NA
+"611","doc36",1,8,"Kita sudah bersihkan apa-apa sendiri.","1","Kita",NA,"PROPN",NA,NA,"3","nsubj",NA,NA
+"612","doc36",1,8,"Kita sudah bersihkan apa-apa sendiri.","2","sudah",NA,"ADV",NA,NA,"3","advmod",NA,NA
+"613","doc36",1,8,"Kita sudah bersihkan apa-apa sendiri.","3","bersihkan",NA,"VERB",NA,NA,"0","root",NA,NA
+"614","doc36",1,8,"Kita sudah bersihkan apa-apa sendiri.","4","apa-apa",NA,"NOUN",NA,NA,"3","obj",NA,NA
+"615","doc36",1,8,"Kita sudah bersihkan apa-apa sendiri.","5","sendiri",NA,"ADJ",NA,NA,"4","amod",NA,"SpaceAfter=No"
+"616","doc36",1,8,"Kita sudah bersihkan apa-apa sendiri.","6",".",NA,"PUNCT",NA,NA,"3","punct",NA,"SpacesAfter=\s\n"
+"617","doc37",1,1,"Maaf, Pak. Anaknya sudah berapa sekarang?","1","Maaf",NA,"VERB",NA,NA,"0","root",NA,"SpaceAfter=No"
+"618","doc37",1,1,"Maaf, Pak. Anaknya sudah berapa sekarang?","2",",",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"619","doc37",1,1,"Maaf, Pak. Anaknya sudah berapa sekarang?","3","Pak",NA,"PROPN",NA,NA,"1","obj",NA,"SpaceAfter=No"
+"620","doc37",1,1,"Maaf, Pak. Anaknya sudah berapa sekarang?","4",".",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"621","doc37",1,1,"Maaf, Pak. Anaknya sudah berapa sekarang?","5","Anaknya",NA,"PART",NA,NA,"8","advmod",NA,NA
+"622","doc37",1,1,"Maaf, Pak. Anaknya sudah berapa sekarang?","6","sudah",NA,"ADV",NA,NA,"8","advmod",NA,NA
+"623","doc37",1,1,"Maaf, Pak. Anaknya sudah berapa sekarang?","7","berapa",NA,"DET",NA,NA,"8","det",NA,NA
+"624","doc37",1,1,"Maaf, Pak. Anaknya sudah berapa sekarang?","8","sekarang",NA,"NOUN",NA,NA,"1","dep",NA,"SpaceAfter=No"
+"625","doc37",1,1,"Maaf, Pak. Anaknya sudah berapa sekarang?","9","?",NA,"PUNCT",NA,NA,"8","punct",NA,"SpacesAfter=\n"
+"626","doc38",1,1,"Istri pertama dulu ada dua.","1","Istri",NA,"PROPN",NA,NA,"4","nsubj",NA,NA
+"627","doc38",1,1,"Istri pertama dulu ada dua.","2","pertama",NA,"NUM",NA,"NumType=Card","1","nummod",NA,NA
+"628","doc38",1,1,"Istri pertama dulu ada dua.","3","dulu",NA,"ADV",NA,NA,"4","advmod",NA,NA
+"629","doc38",1,1,"Istri pertama dulu ada dua.","4","ada",NA,"VERB",NA,NA,"0","root",NA,NA
+"630","doc38",1,1,"Istri pertama dulu ada dua.","5","dua",NA,"NUM",NA,"NumType=Card","4","nummod",NA,"SpaceAfter=No"
+"631","doc38",1,1,"Istri pertama dulu ada dua.","6",".",NA,"PUNCT",NA,NA,"4","punct",NA,NA
+"632","doc38",1,2,"Kalau ini istri sekarang belum ada.","1","Kalau",NA,"SCONJ",NA,NA,"6","mark",NA,NA
+"633","doc38",1,2,"Kalau ini istri sekarang belum ada.","2","ini",NA,"DET",NA,NA,"3","det",NA,NA
+"634","doc38",1,2,"Kalau ini istri sekarang belum ada.","3","istri",NA,"NOUN",NA,NA,"6","nsubj",NA,NA
+"635","doc38",1,2,"Kalau ini istri sekarang belum ada.","4","sekarang",NA,"ADV",NA,NA,"6","advmod",NA,NA
+"636","doc38",1,2,"Kalau ini istri sekarang belum ada.","5","belum",NA,"ADV",NA,NA,"6","advmod",NA,NA
+"637","doc38",1,2,"Kalau ini istri sekarang belum ada.","6","ada",NA,"VERB",NA,NA,"0","root",NA,"SpaceAfter=No"
+"638","doc38",1,2,"Kalau ini istri sekarang belum ada.","7",".",NA,"PUNCT",NA,NA,"6","punct",NA,"SpacesAfter=\n"
+"639","doc39",1,1,"Apakah Bapak sudah merasa nyaman untuk berdagang di sini?","1","Apakah",NA,"ADV",NA,NA,"4","advmod",NA,NA
+"640","doc39",1,1,"Apakah Bapak sudah merasa nyaman untuk berdagang di sini?","2","Bapak",NA,"PROPN",NA,NA,"4","nsubj",NA,NA
+"641","doc39",1,1,"Apakah Bapak sudah merasa nyaman untuk berdagang di sini?","3","sudah",NA,"ADV",NA,NA,"4","advmod",NA,NA
+"642","doc39",1,1,"Apakah Bapak sudah merasa nyaman untuk berdagang di sini?","4","merasa",NA,"VERB",NA,NA,"0","root",NA,NA
+"643","doc39",1,1,"Apakah Bapak sudah merasa nyaman untuk berdagang di sini?","5","nyaman",NA,"NOUN",NA,NA,"4","obj",NA,NA
+"644","doc39",1,1,"Apakah Bapak sudah merasa nyaman untuk berdagang di sini?","6","untuk",NA,"ADP",NA,NA,"7","case",NA,NA
+"645","doc39",1,1,"Apakah Bapak sudah merasa nyaman untuk berdagang di sini?","7","berdagang",NA,"VERB",NA,NA,"4","xcomp",NA,NA
+"646","doc39",1,1,"Apakah Bapak sudah merasa nyaman untuk berdagang di sini?","8","di",NA,"ADP",NA,NA,"9","case",NA,NA
+"647","doc39",1,1,"Apakah Bapak sudah merasa nyaman untuk berdagang di sini?","9","sini",NA,"NOUN",NA,NA,"7","obl",NA,"SpaceAfter=No"
+"648","doc39",1,1,"Apakah Bapak sudah merasa nyaman untuk berdagang di sini?","10","?",NA,"PUNCT",NA,NA,"4","punct",NA,"SpacesAfter=\n"
+"649","doc40",1,1,"Alhamdulillah.","1","Alhamdulillah",NA,"PROPN",NA,NA,"0","root",NA,"SpaceAfter=No"
+"650","doc40",1,1,"Alhamdulillah.","2",".",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"651","doc40",1,2,"Saya merasa nyaman karena saya sudah bisa usaha jualan begini.","1","Saya",NA,"PRON",NA,NA,"2","nsubj",NA,NA
+"652","doc40",1,2,"Saya merasa nyaman karena saya sudah bisa usaha jualan begini.","2","merasa",NA,"VERB",NA,NA,"0","root",NA,NA
+"653","doc40",1,2,"Saya merasa nyaman karena saya sudah bisa usaha jualan begini.","3","nyaman",NA,"ADJ",NA,NA,"2","amod",NA,NA
+"654","doc40",1,2,"Saya merasa nyaman karena saya sudah bisa usaha jualan begini.","4","karena",NA,"SCONJ",NA,NA,"8","mark",NA,NA
+"655","doc40",1,2,"Saya merasa nyaman karena saya sudah bisa usaha jualan begini.","5","saya",NA,"PRON",NA,NA,"8","nsubj",NA,NA
+"656","doc40",1,2,"Saya merasa nyaman karena saya sudah bisa usaha jualan begini.","6","sudah",NA,"ADV",NA,NA,"8","advmod",NA,NA
+"657","doc40",1,2,"Saya merasa nyaman karena saya sudah bisa usaha jualan begini.","7","bisa",NA,"ADV",NA,NA,"8","advmod",NA,NA
+"658","doc40",1,2,"Saya merasa nyaman karena saya sudah bisa usaha jualan begini.","8","usaha",NA,"NOUN",NA,NA,"2","advcl",NA,NA
+"659","doc40",1,2,"Saya merasa nyaman karena saya sudah bisa usaha jualan begini.","9","jualan",NA,"NOUN",NA,NA,"8","compound",NA,NA
+"660","doc40",1,2,"Saya merasa nyaman karena saya sudah bisa usaha jualan begini.","10","begini",NA,"ADJ",NA,NA,"9","amod",NA,"SpaceAfter=No"
+"661","doc40",1,2,"Saya merasa nyaman karena saya sudah bisa usaha jualan begini.","11",".",NA,"PUNCT",NA,NA,"2","punct",NA,NA
+"662","doc40",1,3,"Tidak lagi seperti dulu saya bawak becak, itu setengah mati sekali, karena kurang pemasukannya.","1","Tidak",NA,"PART",NA,"Polarity=Neg","7","advmod",NA,NA
+"663","doc40",1,3,"Tidak lagi seperti dulu saya bawak becak, itu setengah mati sekali, karena kurang pemasukannya.","2","lagi",NA,"ADV",NA,NA,"7","advmod",NA,NA
+"664","doc40",1,3,"Tidak lagi seperti dulu saya bawak becak, itu setengah mati sekali, karena kurang pemasukannya.","3","seperti",NA,"ADP",NA,NA,"5","case",NA,NA
+"665","doc40",1,3,"Tidak lagi seperti dulu saya bawak becak, itu setengah mati sekali, karena kurang pemasukannya.","4","dulu",NA,"ADJ",NA,NA,"5","amod",NA,NA
+"666","doc40",1,3,"Tidak lagi seperti dulu saya bawak becak, itu setengah mati sekali, karena kurang pemasukannya.","5","saya",NA,"PRON",NA,NA,"7","obl",NA,NA
+"667","doc40",1,3,"Tidak lagi seperti dulu saya bawak becak, itu setengah mati sekali, karena kurang pemasukannya.","6","bawak",NA,"NOUN",NA,NA,"7","nsubj:pass",NA,NA
+"668","doc40",1,3,"Tidak lagi seperti dulu saya bawak becak, itu setengah mati sekali, karena kurang pemasukannya.","7","becak",NA,"VERB",NA,NA,"11","advcl",NA,"SpaceAfter=No"
+"669","doc40",1,3,"Tidak lagi seperti dulu saya bawak becak, itu setengah mati sekali, karena kurang pemasukannya.","8",",",NA,"PUNCT",NA,NA,"11","punct",NA,NA
+"670","doc40",1,3,"Tidak lagi seperti dulu saya bawak becak, itu setengah mati sekali, karena kurang pemasukannya.","9","itu",NA,"DET",NA,NA,"11","det",NA,NA
+"671","doc40",1,3,"Tidak lagi seperti dulu saya bawak becak, itu setengah mati sekali, karena kurang pemasukannya.","10","setengah",NA,"ADV",NA,NA,"11","advmod",NA,NA
+"672","doc40",1,3,"Tidak lagi seperti dulu saya bawak becak, itu setengah mati sekali, karena kurang pemasukannya.","11","mati",NA,"VERB",NA,NA,"0","root",NA,NA
+"673","doc40",1,3,"Tidak lagi seperti dulu saya bawak becak, itu setengah mati sekali, karena kurang pemasukannya.","12","sekali",NA,"ADV",NA,NA,"11","advmod",NA,"SpaceAfter=No"
+"674","doc40",1,3,"Tidak lagi seperti dulu saya bawak becak, itu setengah mati sekali, karena kurang pemasukannya.","13",",",NA,"PUNCT",NA,NA,"11","punct",NA,NA
+"675","doc40",1,3,"Tidak lagi seperti dulu saya bawak becak, itu setengah mati sekali, karena kurang pemasukannya.","14","karena",NA,"SCONJ",NA,NA,"16","mark",NA,NA
+"676","doc40",1,3,"Tidak lagi seperti dulu saya bawak becak, itu setengah mati sekali, karena kurang pemasukannya.","15","kurang",NA,"ADV",NA,NA,"16","advmod",NA,NA
+"677","doc40",1,3,"Tidak lagi seperti dulu saya bawak becak, itu setengah mati sekali, karena kurang pemasukannya.","16","pemasukannya",NA,"NOUN",NA,NA,"11","advcl",NA,"SpaceAfter=No"
+"678","doc40",1,3,"Tidak lagi seperti dulu saya bawak becak, itu setengah mati sekali, karena kurang pemasukannya.","17",".",NA,"PUNCT",NA,NA,"11","punct",NA,"SpacesAfter=\n"
+"679","doc41",1,1,"Apa saja yang Bapak sudah rasakan dengan berjualan?","1","Apa",NA,"NOUN",NA,NA,"0","root",NA,NA
+"680","doc41",1,1,"Apa saja yang Bapak sudah rasakan dengan berjualan?","2","saja",NA,"ADV",NA,NA,"1","advmod",NA,NA
+"681","doc41",1,1,"Apa saja yang Bapak sudah rasakan dengan berjualan?","3","yang",NA,"PRON",NA,NA,"4","det",NA,NA
+"682","doc41",1,1,"Apa saja yang Bapak sudah rasakan dengan berjualan?","4","Bapak",NA,"PROPN",NA,NA,"6","nsubj",NA,NA
+"683","doc41",1,1,"Apa saja yang Bapak sudah rasakan dengan berjualan?","5","sudah",NA,"ADV",NA,NA,"6","advmod",NA,NA
+"684","doc41",1,1,"Apa saja yang Bapak sudah rasakan dengan berjualan?","6","rasakan",NA,"VERB",NA,NA,"1","acl",NA,NA
+"685","doc41",1,1,"Apa saja yang Bapak sudah rasakan dengan berjualan?","7","dengan",NA,"ADP",NA,NA,"8","case",NA,NA
+"686","doc41",1,1,"Apa saja yang Bapak sudah rasakan dengan berjualan?","8","berjualan",NA,"VERB",NA,NA,"6","xcomp",NA,"SpaceAfter=No"
+"687","doc41",1,1,"Apa saja yang Bapak sudah rasakan dengan berjualan?","9","?",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"688","doc41",1,2,"Mungkin sudah bangun rumah atau beli motor?","1","Mungkin",NA,"ADV",NA,NA,"3","advmod",NA,NA
+"689","doc41",1,2,"Mungkin sudah bangun rumah atau beli motor?","2","sudah",NA,"ADV",NA,NA,"3","advmod",NA,NA
+"690","doc41",1,2,"Mungkin sudah bangun rumah atau beli motor?","3","bangun",NA,"VERB",NA,NA,"0","root",NA,NA
+"691","doc41",1,2,"Mungkin sudah bangun rumah atau beli motor?","4","rumah",NA,"NOUN",NA,NA,"3","obj",NA,NA
+"692","doc41",1,2,"Mungkin sudah bangun rumah atau beli motor?","5","atau",NA,"CCONJ",NA,NA,"6","cc",NA,NA
+"693","doc41",1,2,"Mungkin sudah bangun rumah atau beli motor?","6","beli",NA,"NOUN",NA,NA,"4","conj",NA,NA
+"694","doc41",1,2,"Mungkin sudah bangun rumah atau beli motor?","7","motor",NA,"NOUN",NA,NA,"6","compound",NA,"SpaceAfter=No"
+"695","doc41",1,2,"Mungkin sudah bangun rumah atau beli motor?","8","?",NA,"PUNCT",NA,NA,"3","punct",NA,"SpacesAfter=\n"
+"696","doc42",1,1,"Belum ada.","1","Belum",NA,"ADV",NA,NA,"2","advmod",NA,NA
+"697","doc42",1,1,"Belum ada.","2","ada",NA,"VERB",NA,NA,"0","root",NA,"SpaceAfter=No"
+"698","doc42",1,1,"Belum ada.","3",".",NA,"PUNCT",NA,NA,"2","punct",NA,NA
+"699","doc42",1,2,"Tapi saya syukur saya sudah bisa menghidupi keluarga saya.","1","Tapi",NA,"SCONJ",NA,NA,"3","mark",NA,NA
+"700","doc42",1,2,"Tapi saya syukur saya sudah bisa menghidupi keluarga saya.","2","saya",NA,"PRON",NA,NA,"3","nsubj",NA,NA
+"701","doc42",1,2,"Tapi saya syukur saya sudah bisa menghidupi keluarga saya.","3","syukur",NA,"VERB",NA,NA,"0","root",NA,NA
+"702","doc42",1,2,"Tapi saya syukur saya sudah bisa menghidupi keluarga saya.","4","saya",NA,"PRON",NA,NA,"3","obj",NA,NA
+"703","doc42",1,2,"Tapi saya syukur saya sudah bisa menghidupi keluarga saya.","5","sudah",NA,"ADV",NA,NA,"7","advmod",NA,NA
+"704","doc42",1,2,"Tapi saya syukur saya sudah bisa menghidupi keluarga saya.","6","bisa",NA,"ADV",NA,NA,"7","advmod",NA,NA
+"705","doc42",1,2,"Tapi saya syukur saya sudah bisa menghidupi keluarga saya.","7","menghidupi",NA,"VERB",NA,NA,"3","advcl",NA,NA
+"706","doc42",1,2,"Tapi saya syukur saya sudah bisa menghidupi keluarga saya.","8","keluarga",NA,"NOUN",NA,NA,"7","obj",NA,NA
+"707","doc42",1,2,"Tapi saya syukur saya sudah bisa menghidupi keluarga saya.","9","saya",NA,"PRON",NA,NA,"8","det",NA,"SpaceAfter=No"
+"708","doc42",1,2,"Tapi saya syukur saya sudah bisa menghidupi keluarga saya.","10",".",NA,"PUNCT",NA,NA,"3","punct",NA,NA
+"709","doc42",1,3,"Sudah bisa menabung sedikit-sedikit.","1","Sudah",NA,"ADV",NA,NA,"3","advmod",NA,NA
+"710","doc42",1,3,"Sudah bisa menabung sedikit-sedikit.","2","bisa",NA,"ADV",NA,NA,"3","advmod",NA,NA
+"711","doc42",1,3,"Sudah bisa menabung sedikit-sedikit.","3","menabung",NA,"VERB",NA,NA,"0","root",NA,NA
+"712","doc42",1,3,"Sudah bisa menabung sedikit-sedikit.","4","sedikit-sedikit",NA,"ADV",NA,NA,"3","advmod",NA,"SpaceAfter=No"
+"713","doc42",1,3,"Sudah bisa menabung sedikit-sedikit.","5",".",NA,"PUNCT",NA,NA,"3","punct",NA,NA
+"714","doc42",1,4,"Walaupun tidak banyak, tapi saya bersyukur karena bantuan dari pemerintah ini.","1","Walaupun",NA,"SCONJ",NA,NA,"3","mark",NA,NA
+"715","doc42",1,4,"Walaupun tidak banyak, tapi saya bersyukur karena bantuan dari pemerintah ini.","2","tidak",NA,"PART",NA,"Polarity=Neg","3","advmod",NA,NA
+"716","doc42",1,4,"Walaupun tidak banyak, tapi saya bersyukur karena bantuan dari pemerintah ini.","3","banyak",NA,"ADV",NA,NA,"7","advmod",NA,"SpaceAfter=No"
+"717","doc42",1,4,"Walaupun tidak banyak, tapi saya bersyukur karena bantuan dari pemerintah ini.","4",",",NA,"PUNCT",NA,NA,"3","punct",NA,NA
+"718","doc42",1,4,"Walaupun tidak banyak, tapi saya bersyukur karena bantuan dari pemerintah ini.","5","tapi",NA,"SCONJ",NA,NA,"7","mark",NA,NA
+"719","doc42",1,4,"Walaupun tidak banyak, tapi saya bersyukur karena bantuan dari pemerintah ini.","6","saya",NA,"PRON",NA,NA,"7","nsubj:pass",NA,NA
+"720","doc42",1,4,"Walaupun tidak banyak, tapi saya bersyukur karena bantuan dari pemerintah ini.","7","bersyukur",NA,"VERB",NA,NA,"0","root",NA,NA
+"721","doc42",1,4,"Walaupun tidak banyak, tapi saya bersyukur karena bantuan dari pemerintah ini.","8","karena",NA,"SCONJ",NA,NA,"9","mark",NA,NA
+"722","doc42",1,4,"Walaupun tidak banyak, tapi saya bersyukur karena bantuan dari pemerintah ini.","9","bantuan",NA,"NOUN",NA,NA,"7","obl",NA,NA
+"723","doc42",1,4,"Walaupun tidak banyak, tapi saya bersyukur karena bantuan dari pemerintah ini.","10","dari",NA,"ADP",NA,NA,"11","case",NA,NA
+"724","doc42",1,4,"Walaupun tidak banyak, tapi saya bersyukur karena bantuan dari pemerintah ini.","11","pemerintah",NA,"NOUN",NA,NA,"9","nmod",NA,NA
+"725","doc42",1,4,"Walaupun tidak banyak, tapi saya bersyukur karena bantuan dari pemerintah ini.","12","ini",NA,"DET",NA,NA,"11","det",NA,"SpaceAfter=No"
+"726","doc42",1,4,"Walaupun tidak banyak, tapi saya bersyukur karena bantuan dari pemerintah ini.","13",".",NA,"PUNCT",NA,NA,"7","punct",NA,"SpacesAfter=\n"
+"727","doc43",1,1,"Namanya tadi siapa, Pak?","1","Namanya",NA,"NOUN",NA,NA,"0","root",NA,NA
+"728","doc43",1,1,"Namanya tadi siapa, Pak?","2","tadi",NA,"NOUN",NA,NA,"1","compound",NA,NA
+"729","doc43",1,1,"Namanya tadi siapa, Pak?","3","siapa",NA,"NOUN",NA,NA,"1","compound",NA,"SpaceAfter=No"
+"730","doc43",1,1,"Namanya tadi siapa, Pak?","4",",",NA,"PUNCT",NA,NA,"1","punct",NA,NA
+"731","doc43",1,1,"Namanya tadi siapa, Pak?","5","Pak",NA,"PROPN",NA,NA,"1","appos",NA,"SpaceAfter=No"
+"732","doc43",1,1,"Namanya tadi siapa, Pak?","6","?",NA,"PUNCT",NA,NA,"1","punct",NA,"SpacesAfter=\n"
+"733","doc44",1,1,"Amir.","1","Amir",NA,"PROPN",NA,NA,"0","root",NA,"SpaceAfter=No"
+"734","doc44",1,1,"Amir.","2",".",NA,"PUNCT",NA,NA,"1","punct",NA,"SpacesAfter=\n"
