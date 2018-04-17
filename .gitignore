@@ -2,3 +2,5 @@ raw/
 raw/*
 out/
 out/*
+.ipnyb_checkpoints/
+.ipnyb_checkpoints/*
